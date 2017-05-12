@@ -1,0 +1,160 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head> 
+	<meta charset="utf-8"/>
+	<meta name="keywords" content="szkoła, Żukowo"/> 
+	<link rel="stylesheet" href="style.css" type="text/css"/>
+	<script type="text/javascript" charset="iso-8859-2" src="news.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	
+</head>
+<style>
+body {background:white}
+</style>
+
+<body>
+
+	<div id="container">
+		
+			<div class="logo1">
+		<h1>Witamy na stronie <br/>Szkoły Podstawowej nr 2 <br/>im. Jana Heweliusza w Żukowie</h1>
+			</div>
+			
+			
+			<div class="logo2">
+		<a href="https://synergia.librus.pl"> <img src="librus.jpg"  " height="100" width="80" alt="tekst alternatywny" /></a>
+		<a href="http://www.gimzukowo.naszbip.pl/"><img src="logo_glowne bip.jpg" " height="100" width="80" alt="tekst alternatywny" /></a>
+		<a href="https://www.facebook.com/groups/236340163208232/?fref=ts"><img src="fb.jpg" " height="100" width="80" alt="tekst alternatywny" /></a>
+			</div>
+		<div id="zdjecie">
+		<img class="obr" src="heveliusz_r2_c1.jpg" " height="170" width="300"/> 
+	
+		</div>		
+		
+		<div class="nav">
+			<ol id="Menu1">
+				<li><a href="#">SZKOŁA</a>
+					<ol>
+						<li><a href="index_hymn_godlo_sztandar.html">hymn, sztandar, godło</a>
+						<li><a href="index_patron.html">patron</a>
+						<li><a href="index_kadra.html">kadra</a>
+						<li><a href="index_organizacja.html">organizacja pracy</a>
+					
+					</ol>	
+				<li><a href="#">DOKUMENTY</a>
+					<ol>
+						<li><a href="projekt_wychowawczy.pdf">program wychowawczy</a>
+						<li><a href="projekt_profilaktyka.pdf">program profilaktyczny</a>
+						<li><a href="statut.pdf">statut</a>
+						<li><a href="reg_ucz.pdf">regulamin uczniowski</a>
+						<li><a href="podreczniki.pdf">wykaz podręczników</a>
+					</ol>	
+				<li><a href="#">ORGANY SZKOŁY</a>
+					<ol>
+						<li><a href="#">Dyrektor</a>
+						<li><a href="#">Rada Pedagogiczna</a>
+						<li><a href="#">Rada Rodziców</a>
+						<li><a href="#">Samorząd Uczniowski</a>
+					</ol>	
+				<li><a href="#">FOTOGALERIA</a>
+					<ol>
+						<li><a href="index_galeria.html">projekt edukacyjny</a>
+						<li><a href="index_galeria1.html">wyjazd do Garczyna</a>
+						
+					</ol>
+				<li><a href="#">BAZA SZKOŁY</a>
+					<ol>
+						<li><a href="#">biblioteka</a>
+						<li><a href="#">świetlica</a>
+						<li><a href="#">sala gimnastyczna</a>
+						<li><a href="#">gabinet pedagoga</a>
+						<li><a href="#">gabinet psychologa</a>
+						<li><a href="#">gabinet pielęgniarki</a>	
+					</ol>
+			</ol>	
+		</div>
+		<div class="nav2">
+			<dl id="menu0">
+				<dt><a>SZKOŁA</a></dt>
+						<dd><a href="index_hymn_godlo_sztandar.html" >hymn, sztandar, godło </a></dd>
+						<dd><a href="index_patron.html">patron</a></dd>
+						<dd><a href="index_kadra.html">kadra</a></dd>
+						<dd><a href="index_organizacja.html">organizacja pracy</a></dd>
+				<dt><a>DOKUMENTY</a></dt>
+						<dd><a href="projekt_wychowawczy.pdf">program wychowawczy</a></dd>
+						<dd><a href="projekt_profilaktyka.pdf">program profilaktyczny</a></dd>
+						<dd><a href="statut.pdf">statut</a></dd>
+						<dd><a href="reg_ucz.pdf">regulamin uczniowski</a></dd>
+						<dd><a href="podreczniki.pdf">wykaz podręczników</a></dd>
+				<dt><a>ORGANY SZKOŁY</a></dt>
+						<dd><a href="#">Dyrektor</a></dd>
+						<dd><a href="#">Rada Pedagogiczna</a></dd>
+						<dd><a href="#">Rada Rodziców</a></dd>
+						<dd><a href="#">Samorząd Uczniowski</a></dd>
+				<dt><a>FOTOGALERIA</a></dt>
+						<dd><a href="index_galeria.html">projekt edukacyjny klasy 2d</a></dd>
+						<dd><a href="index_galeria1.html">wyjazd klasy 1f do Garczyna</a></dd>
+				<dt><a>BAZA SZKOŁY</a></dt>
+						<dd><a href="#">biblioteka</a></dd>
+						<dd><a href="#">świetlica</a></dd>
+						<dd><a href="#">sala gimnastyczna</a></dd>
+						<dd><a href="#">gabinet pedagoga</a></dd>
+						<dd><a href="#">gabinet psychologa</a></dd>
+						<dd><a href="#">gabinet pielęgniarki</a></dd>	
+			</dl>	
+
+		</div>
+		
+		
+		<div class=kolumna>
+			<a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vestibulum leo vitae dui lacinia, vestibulum volutpat dolor viverra. Etiam venenatis mattis purus, non lobortis turpis viverra vitae. Cras pulvinar finibus tortor, a convallis diam finibus sit amet. Maecenas a consequat. </a>
+			<br/>
+			<a href="#">więcej</a>
+			<br/>
+			<a>Curabitur tempor mi feugiat, feugiat libero nec, vulputate felis. Vestibulum quam felis, gravida nec sapien a, finibus varius orci. Aliquam rhoncus ante vitae nulla vestibulum, vel faucibus turpis laoreet. Duis et ex aliquam eros cursus molestie. Donec malesuada eros sed vehicula pulvinar. Aenean odio lacus, rutrum eu vulputate a, commodo nec odio. Aliquam erat volutpat. Nulla commodo est eget elit vestibulum vulputate.
+			</a>
+			<br/>
+			<a href="#">więcej</a>
+			<br/>
+			<a>
+			Duis vitae felis id nunc convallis elementum. Cras eu tristique elit. Aliquam mi ex, accumsan sed sapien eu, interdum pretium justo. Phasellus quis egestas turpis. Aenean non lobortis ex, gravida mollis metus. Praesent porta sed orci sit amet egestas. Vestibulum scelerisque turpis sit amet metus tempus, condimentum eleifend nibh euismod. Nullam ac suscipit justo. Nullam dapibus neque eu fringilla ultricies.
+			</a>
+			<br/>
+			<a href="#">więcej</a>
+			<br/>
+			<a>
+			Aenean laoreet augue elit, rhoncus eleifend ligula placerat vitae. Mauris ac purus at metus faucibus viverra. Nullam sed tincidunt quam, quis bibendum dui. Nunc lorem arcu, mattis vel velit vitae, egestas lobortis ipsum. Morbi aliquam sit amet velit id volutpat. Donec vulputate scelerisque enim. Quisque vulputate, tellus vel eleifend pellentesque, quam dolor sollicitudin eros, ac varius metus lacus sed ligula. Curabitur eget eros eget leo euismod commodo nec ut enim.
+			<a/>
+			<br/>
+			<a href="#">więcej</a>
+			<br/>
+			<a>
+			Sed vel est euismod, convallis sem in, aliquet justo. Aliquam tristique non felis vel congue. Quisque dictum lectus consectetur porttitor scelerisque. Nullam porta, metus egestas volutpat pharetra, libero felis vestibulum nulla, ac molestie orci odio non odio. Proin vitae nisi nec nisl scelerisque tristique id sit amet tortor. Praesent vulputate sit amet odio iaculis commodo. Nulla.
+			<a/>	
+			<br/>
+			<a href="#">więcej</a>
+			
+			<a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus leo ut ipsum finibus, ac bibendum lacus iaculis. In non est justo. Sed non sem ultrices, posuere urna a, finibus libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sollicitudin luctus lorem vitae ultrices. Proin non felis ipsum. Nulla non tristique nisi. Quisque sagittis ante id molestie lacinia. Nullam.Lorem Ipsum "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." </a>
+				<br/>
+				<a href="#">więcej</a>
+				<br/>
+				<a> Lorem Ipsum "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." </a>
+				<br/>
+				<a href="#">więcej</a>
+				<br/>
+				<a> Lorem Ipsum "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sagittis tincidunt metus quis dictum. Aenean cursus leo ut ipsum finibus, ac bibendum lacus iaculis. In non est justo. Sed non sem ultrices, posuere urna a, finibus libero. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sollicitudin luctus lorem vitae ultrices." </a>
+				<br/>
+				<a href="#">więcej</a>
+				<br/>
+		</div>
+	
+							
+		<div id=stopka>
+		Szkoła Podstawowa nr 2 im. Jana Heweliusza w Żukowie, ul. Armii Krajowej 2e, 83-330 Żukowo,  tel. 58 681 70 50
+		</div>
+		
+	</div>
+</body>
+</html>
+
