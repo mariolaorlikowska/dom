@@ -10,8 +10,9 @@ kkkkkkkko
 llllllll
 p
 kol1|kkk2
-____________
-kkkk2|kkk3
+|--------|:-----:|------|
+|kkkk2|kkk3|gggggggggggggg yyyyyyyyyyy uuuuuuuuuuuu jjjjjjjj|
+|jjjjjjj uuuuuuuuuuu ooooooo | jjjjjjjjjjj iiiiiiiiii oooo   oooooooooooooo| oooooooooo uuuuuuuuu yyyyyyyy|
 *j kkkkkkkk llll *
 *kkkk
 *llllll
