@@ -9,6 +9,5 @@ kkkkkkkko
 
 llllllll
 p
-kol1|kkk2
--------
+kol1|kkk2___________
 kkkk2|kkk3
