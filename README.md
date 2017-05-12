@@ -18,3 +18,10 @@ kkkk2|kkk3
 *bbbb
   *nnnnnn
   *kkkkkkkkk
+
+
+1 jjjjjj
+1 kkkkkkk
+1 lllllll
+ 1 kkkkkk
+ 1 uuuuuu
