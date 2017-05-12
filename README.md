@@ -8,7 +8,7 @@ _kkkkkkkk_
 kkkkkkkko
 
 llllllll
-p
+### :computer: Subiektywna lista najważniejszych komputerów osobistych w historii:
 | Model      | Opis           | Zdjęcie  |
 | ------------- |:-------------:| -----:|
 
