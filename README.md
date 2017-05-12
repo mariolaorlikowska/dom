@@ -12,3 +12,9 @@ p
 kol1|kkk2
 ____________
 kkkk2|kkk3
+*j kkkkkkkk llll *
+*kkkk
+*llllll
+*bbbb
+  *nnnnnn
+  *kkkkkkkkk
