@@ -1,8 +1,10 @@
-##kkkk###
+##kkkk##
 *kkk*
 _kkkkkkkk_
 **lllllll**
 **kkkkkkkkkoooooo**
+
+
 # KOMPUTER :smile:
 
 ![komputer](pics/komputer1.jpg)
