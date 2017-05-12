@@ -9,6 +9,9 @@ kkkkkkkko
 
 llllllll
 p
+| Model      | Opis           | Zdjęcie  |
+| ------------- |:-------------:| -----:|
+
 kol1|kkk2
 |--------|:-----:|------|
 |kkkk2|kkk3|gggggggggggggg yyyyyyyyyyy uuuuuuuuuuuu jjjjjjjj|
