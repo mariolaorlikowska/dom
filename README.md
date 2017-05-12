@@ -11,9 +11,6 @@ llllllll
 ### :computer: Subiektywna lista najważniejszych komputerów osobistych w historii:
 | Model      | Opis           | Zdjęcie  |
 | ------------- |:-------------:| -----:|
-
-kol1|kkk2
-|--------|:-----:|------|
 |kkkk2|kkk3|gggggggggggggg yyyyyyyyyyy uuuuuuuuuuuu jjjjjjjj|
 |jjjjjjj uuuuuuuuuuu ooooooo | jjjjjjjjjjj iiiiiiiiii oooo   oooooooooooooo| oooooooooo uuuuuuuuu yyyyyyyy|
 *j kkkkkkkk llll *
