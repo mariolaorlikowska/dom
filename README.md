@@ -3,7 +3,15 @@
 _kkkkkkkk_
 **lllllll**
 **kkkkkkkkkoooooo**
+# KOMPUTER :smile:
 
+![komputer](pics/komputer1.jpg)
+
+**Komputer** *jest to maszyna elektroniczna przeznaczona do przetwarzania informacji, oraz posiadające zdolność wykonywania wielokrotnie, automatycznie powtarzanych obliczeń, według algorytmicznego wzorca zwanego programem.*
+
+**_Programowalność_**
+
+To, co odróżnia współczesne komputery od wszystkich innych maszyn, to możliwość ich programowania, czyli wprowadzenia do pamięci komputera listy instrukcji, które mogą być wykonane w różnym czasie.
 
 kkkkkkkko
 
