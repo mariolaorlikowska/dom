@@ -80,10 +80,12 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 Autor: Alfred Aleksander Konar 
 
+
+| Bukiet      | Opis           | Zdjęcie  |
 | ---------- |----------------| ---------|
-|![obraz](kob.jpg)| ![obraz](kob22.jpg) |  ![obraz](kob3.jpg) |
+|![obraz](kob.jpg)| ![obraz](kob22.jpg) |![obraz](kob3.jpg) |
 |![obraz](kob4.jpg) |![obraz](kob6.jpg) |![obraz](kob7.jpg)|
-   | ![obraz](kob8.jpg)     | ![obraz](kob9.jpg)     |![obraz](kob10.jpg)|
+|![obraz](kob8.jpg) | ![obraz](kob9.jpg)|![obraz](kob10.jpg)|
  
 
 
