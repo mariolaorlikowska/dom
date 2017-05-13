@@ -40,7 +40,7 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
  - Pochodzą od róży chińskiej odmiany niskiej – Rosa chinensis minima. Delikatne, niskie krzewy o małych kwiatach i drobnych liściach. Wrażliwe na niskie temperatury. Wymagają kopczykowania. Często wykorzystywane do dekoracji wnętrz.
 
 
-
+:link: Jesli chcesz dowiedzieć się więcej o różach, odwiedź strony:  http://poradnikogrodniczy.pl/roze.php , http://www.zielonyogrodek.pl/przycinanie-roz-po-co-kiedy-i-jak-przycinac-roze
 
 
 
@@ -56,6 +56,9 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 |"Herbaciane róże" | To kolor słońca i radości , wyzwala dobrą energię i ciepło. Wyślij więc online bukiet 15 herbacianych róż z zielonym przybraniem. Do bukietu dołącz bilecik i napisz życzenia.| ![obraz](rose2.jpg)|113zł|
 |"Róże w pudełku"|Proponujemy Państwu nasz nowy HIT, 9 czerwonych róż w białym kwadratowym, kartonowym pudełku. Kwiaty będą trzymać się bardzo długo ponieważ ułożone zostały w gąbce florystycznej umieszczonej w plastikowym pojemniku.Do kwiatowego prezentu możesz dołączyć gratis bilecik.|![obraz](rose3.jpg)|90zł|
 |"Zielone róże z zieloną herbatą"|Zielony kolor symbolizuje również ...rodzącą się miłość! Jest to barwa nadziei na szczęście. Wyślij on Line 11 zielonych róż przybranych pachnącym szarym eukaliptusem i dołącz zieloną herbatę. Do przesyłki można dodać bilecik i przekazać życzenia.|![obraz](rose4.jpg)|113zł|
+
+
+:link: Jesli chcesz zobaczyć więcej propozycji, odwiedź stronę:  http://kwiatyonline.com.pl/pl/, https://www.kwiatowaprzesylka.pl/#!/home
 
 :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
 
