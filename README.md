@@ -1,14 +1,22 @@
 #  *kilka słów o różach*    :rose: :rose:                         
 
 :heart: :heart: :heart: :heart: 
->*Sadźmy, przyjacielu, róże!*:book:
->*Długo jeszcze, długo światu* :book:
->*Szumieć będą śnieżne burze, *:book:
->*Sadźmy je przyszłemu latu! *:book:
-
-Autor: Seweryn Goszczyński, Przy sadzeniu róż, 1831
 
 
+## Programy w języku C, który wydrukuje wiersz:
+
+```c
+#include <stdio.h>
+int main() {
+  printf("Sadźmy, przyjacielu, róże!\n");
+  printf("Długo jeszcze, długo światu\n");
+  printf("Szumieć będą śnieżne burze, \n");
+  printf("Sadźmy je przyszłemu latu!\n");
+  printf("\n");
+  printf("Autor: Seweryn Goszczyński, Przy sadzeniu róż, 1831\n");
+  return 0;
+}
+```
 :heart:
 
 ![obraz](roza4.jpg)
