@@ -13,7 +13,7 @@ Sadźmy je przyszłemu latu!
 
 
 
-## Grupy róż
+# Grupy róż
 
 W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 grup:
 
@@ -41,7 +41,7 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 
 
-### Propozycje poczty kwiatowej:
+# Propozycje poczty kwiatowej:
 | Bukiet      | Opis           | Zdjęcie  |Cena|
 | ---------- |----------------| ---------|----|
 |"Białe róże"|Elegancja klasycznych białych róż jest niepodważalna. Niezależnie od pory roku czy okazji , bukiet z 9 białych róż to doskonały wybór! Do bukietu możesz dołączyć bilecik.|![obraz](rose1.jpg)|79zł|
@@ -50,11 +50,11 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 |"Zielone róże z zieloną herbatą"|Zielony kolor symbolizuje również ...rodzącą się miłość! Jest to barwa nadziei na szczęście. Wyślij on Line 11 zielonych róż przybranych pachnącym szarym eukaliptusem i dołącz zieloną herbatę. Do przesyłki można dodać bilecik i przekazać życzenia.|![obraz](rose4.jpg)|113zł|
 
 
-## Rosaria
+# Rosaria
 Rosaria czyli ogrody różane były zakładane już w średniowieczu. Rosarium w Wojewódzkim Parku Kultury i Wypoczynku w Chorzowie (woj. ślaskie) jest największe w Polsce i jedno z większych w Europie. Posadzonych jest tam około 30 tysięcy róż. Ciekawą kolekcję róż posiada również Ogród Botaniczny w Łodzi, Ogród Botaniczny PAN w Powsinie, ogród różany w Szczecinie czy w Wilanowie.
 Inne warte polecenia rosaria na świecie: ogród różany Józefiny w Chateau de Malmaison pod Paryżem, Europa-Rosarium w Sangerhausen (Niemcy), Roseraie du Val-de-Marne (Francja), ogród różany przed klasztorem misyjnym Santa Barbara( Kalifornia, USA), kolekcja róż w Hyde Hall (hrabstwo Essex na wschód od Londynu).
 
-# Rosarium w Chorzowie
+## Rosarium w Chorzowie
 Obszar o powierzchni ponad siedmiu hektarów, to jeden z największych symboli Parku Śląskiego. Rosarium najpiękniej kwitnielatem, gdy setki tysięcy krzewów mieni się przepięknymi kolorami, a niektóre, jak frezje, wydzielają charakterystyczny, kuszący wręcz zapach.
 
 Parkowe Rosarium to układ zamknięty w tzw. plastrze miodu. Składają się na niego 374 rabatki w kształcie komórek o powierzchni 7,5 metra kwadratowego. Poza tym, w ogrodzie jest 15 dużych rabat w kształcie soczewek, które mają od 75 do 350 metrów kw. Cała kolekcja róż liczy około trzystu odmian, które można podziwiać na około 35 tysiącach krzewów.Róże najintensywniej kwitną od połowy czerwca do połowy lipca. Potem, z mniejszą intensywnością, powtarzają ten proces aż do jesieni.
