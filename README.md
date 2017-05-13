@@ -30,9 +30,9 @@ kkkkkkkko
 
 llllllll
 ### :computer: Subiektywna lista najważniejszych komputerów osobistych w historii:
-| Model      | Opis           | Zdjęcie  |
+| Model      | Opis           | Zdjęcie  |Cena|
 | ------------- |:-------------:| -----:|
-|kkkk2|kkk3|gggggggggggggg yyyyyyyyyyy uuuuuuuuuuuu jjjjjjjj|
+|kkkk2|kkk3|gggggggggggggg yyyyyyyyyyy uuuuuuuuuuuu jjjjjjjj|99zł
 |jjjjjjj uuuuuuuuuuu ooooooo | jjjjjjjjjjj iiiiiiiiii oooo   oooooooooooooo| oooooooooo uuuuuuuuu yyyyyyyy|
 *j kkkkkkkk llll *
 *kkkk
