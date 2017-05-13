@@ -1,22 +1,7 @@
-#  *kilka słów o różach*    :rose: :rose:    :heart:                     
+#  *kilka słów o różach*                       
 
 
-:rose: :rose:     :rose: :rose:     :rose: :rose:     
 
-## Programy w języku C, który wydrukuje wiersz:
-
-```c
-#include <stdio.h>
-int main() {
-  printf("Sadźmy, przyjacielu, róże!\n");
-  printf("Długo jeszcze, długo światu\n");
-  printf("Szumieć będą śnieżne burze, \n");
-  printf("Sadźmy je przyszłemu latu!\n");
-  printf("\n");
-  printf("Autor: Seweryn Goszczyński, Przy sadzeniu róż, 1831\n");
-  return 0;
-}
-```
 
 
 
@@ -97,6 +82,21 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
  
 :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
 
+## Programy w języku C, który wydrukuje wiersz:
+
+```c
+#include <stdio.h>
+int main() {
+  printf("Sadźmy, przyjacielu, róże!\n");
+  printf("Długo jeszcze, długo światu\n");
+  printf("Szumieć będą śnieżne burze, \n");
+  printf("Sadźmy je przyszłemu latu!\n");
+  printf("\n");
+  printf("Autor: Seweryn Goszczyński, Przy sadzeniu róż, 1831\n");
+  return 0;
+}
+```
+:rose: :rose:    :heart:  :rose: :rose:     :rose: :rose:     :rose: :rose:     
 
 # Rosaria
 Rosaria czyli ogrody różane były zakładane już w średniowieczu. Rosarium w Wojewódzkim Parku Kultury i Wypoczynku w Chorzowie (woj. ślaskie) jest największe w Polsce i jedno z większych w Europie. Posadzonych jest tam około 30 tysięcy róż. Ciekawą kolekcję róż posiada również Ogród Botaniczny w Łodzi, Ogród Botaniczny PAN w Powsinie, ogród różany w Szczecinie czy w Wilanowie.
