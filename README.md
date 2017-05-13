@@ -1,4 +1,4 @@
-#  *kilka słów o różach*                             
+#  *kilka słów o różach*    :rose: :rose:                         
 ![obraz](roza3.jpg)
 
 
@@ -14,7 +14,7 @@ Autor: Seweryn Goszczyński, Przy sadzeniu róż, 1831
 
 ![obraz](roza4.jpg)
 
-**Róża, to jeden z najpiękniejszych rodzajów wśród krzewów, którego zalety doceniono już w starożytności i od tamtego czasu, róża zajmuje czołowe miejsce wśród roślin ozdobnych, nazywana często „królową kwiatów”. Róże występują w całej strefie umiarkowanej półkuli północnej i mają postać krzewów, bardzo zróżnicowanych, zależnie od gatunku. Ich wysokość waha się od piętnastu centymetrów, do nawet dziesięciu metrów u form pnących. Pędy wzniesione, czepne lub płożące się, uzbrojone mniej lub licznej w kolce. Kwiaty promieniste, podwójne, półpełne lub pełne w wszystkich barwach, za wyjątkiem czysto niebieskiej. Tysiące odmian róż, jakie są obecnie dostępne, możemy pogrupować na kilka grup.**![obraz](roza8.jpg)
+:memo:**Róża, to jeden z najpiękniejszych rodzajów wśród krzewów, którego zalety doceniono już w starożytności i od tamtego czasu, róża zajmuje czołowe miejsce wśród roślin ozdobnych, nazywana często „królową kwiatów”. Róże występują w całej strefie umiarkowanej półkuli północnej i mają postać krzewów, bardzo zróżnicowanych, zależnie od gatunku. Ich wysokość waha się od piętnastu centymetrów, do nawet dziesięciu metrów u form pnących. Pędy wzniesione, czepne lub płożące się, uzbrojone mniej lub licznej w kolce. Kwiaty promieniste, podwójne, półpełne lub pełne w wszystkich barwach, za wyjątkiem czysto niebieskiej. Tysiące odmian róż, jakie są obecnie dostępne, możemy pogrupować na kilka grup.**![obraz](roza8.jpg)
 
 
 
@@ -66,7 +66,7 @@ Parkowe Rosarium to układ zamknięty w tzw. plastrze miodu. Składają się na 
 
 >Lato to dla Rosarium taki szczególny okres. Goście wiedzą już bowiem, że róże wyglądają wtedy najpiękniej i chętnie odwiedzają nasz ogród - przyznaje Łukasz Drozd, który nadzoruje pielęgnację parkowej zieleni. Stałą popularnością cieszy się róża rugosa. Jej płatki wykorzystywane są do konfitur, kosmetyków i kąpieli. Jednak nie wolno ich zrywać z kwiatów. Należy zaczekać aż opadną – mówi. Większość odmian róż w Parku Śląskim to produkty krajowe oraz europejskich hodowców. Każdego roku ogrodnicy starają się poszerzać kolekcję.Ze względu na zimotrwałość, zakupujemy tylko odmiany najodporniejsze. Niektóre z naszych róż mają ponad 25 lat – przyznaje Drozd.
 
-Jesli chcesz dowiedzieć się więcej o tym parku, odwiedź stronę:  http://www.parkslaski.pl/
+:link: Jesli chcesz dowiedzieć się więcej o tym parku, odwiedź stronę:  http://www.parkslaski.pl/
 
 ![obraz](chorzow2.jpg)
 ![obraz](chorzow3.jpg)
