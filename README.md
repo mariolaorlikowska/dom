@@ -76,9 +76,10 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 # Kobiety lubią róże
 
-|  >Kobiety są jak róże: niby zupełnie do siebie podobne, a jednak zapach, forma i kolor każdej z nich jest trochę inny.
+>Kobiety są jak róże: niby zupełnie do siebie podobne, a jednak zapach, forma i kolor każdej z nich jest trochę inny.
 
-Autor: Alfred Aleksander Konar |
+Autor: Alfred Aleksander Konar 
+
 | ---------- |----------------| ---------|
 |![obraz](kob.jpg)| ![obraz](kob22.jpg) |  ![obraz](kob3.jpg) |
 |![obraz](kob4.jpg) |![obraz](kob6.jpg) |![obraz](kob7.jpg)|
