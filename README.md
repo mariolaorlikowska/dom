@@ -1,11 +1,15 @@
 #  *kilka słów o różach*                             
 ![obraz](roza3.jpg)
+
+
 >Sadźmy, przyjacielu, róże!
 >Długo jeszcze, długo światu
 >Szumieć będą śnieżne burze,
 >Sadźmy je przyszłemu latu!
 Autor: Seweryn Goszczyński, Przy sadzeniu róż, 1831
-                                                                                                                  ![obraz](roza8.jpg)
+
+
+![obraz](roza8.jpg)
 
 ![obraz](roza4.jpg)
 
