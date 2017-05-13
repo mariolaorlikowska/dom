@@ -1,6 +1,6 @@
 #  *kilka słów o różach*    :rose: :rose:                         
 
-
+:heart: :heart: :heart: :heart: 
 >*Sadźmy, przyjacielu, róże!*:book:
 >*Długo jeszcze, długo światu* :book:
 >*Szumieć będą śnieżne burze, *:book:
