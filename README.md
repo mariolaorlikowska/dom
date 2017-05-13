@@ -19,7 +19,7 @@ int main() {
 ```
 :heart:
 
-![obraz](roza4.jpg)
+![obraz](roza17.jpg)
 
 :bangbang: **Róża, to jeden z najpiękniejszych rodzajów wśród krzewów, którego zalety doceniono już w starożytności i od tamtego czasu, róża zajmuje czołowe miejsce wśród roślin ozdobnych, nazywana często „królową kwiatów”. Róże występują w całej strefie umiarkowanej półkuli północnej i mają postać krzewów, bardzo zróżnicowanych, zależnie od gatunku. Ich wysokość waha się od piętnastu centymetrów, do nawet dziesięciu metrów u form pnących. Pędy wzniesione, czepne lub płożące się, uzbrojone mniej lub licznej w kolce. Kwiaty promieniste, podwójne, półpełne lub pełne w wszystkich barwach, za wyjątkiem czysto niebieskiej. Tysiące odmian róż, jakie są obecnie dostępne, możemy pogrupować na kilka grup.**![obraz](roza8.jpg)
 
@@ -51,9 +51,12 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
  - Pochodzą od róży chińskiej odmiany niskiej – Rosa chinensis minima. Delikatne, niskie krzewy o małych kwiatach i drobnych liściach. Wrażliwe na niskie temperatury. Wymagają kopczykowania. Często wykorzystywane do dekoracji wnętrz.
 
 
-
+![obraz](gift.jpg)
 
 :gift_heart: 
+
+![obraz](gift2.jpg)
+
 
 # Propozycje poczty kwiatowej:
 | Bukiet      | Opis           | Zdjęcie  |Cena|
@@ -64,11 +67,14 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 |"Zielone róże z zieloną herbatą"|Zielony kolor symbolizuje również ...rodzącą się miłość! Jest to barwa nadziei na szczęście. Wyślij on Line 11 zielonych róż przybranych pachnącym szarym eukaliptusem i dołącz zieloną herbatę. Do przesyłki można dodać bilecik i przekazać życzenia.|![obraz](rose4.jpg)|113zł|
 
 
+![obraz](kob.jpg)
 
 >Kobiety są jak róże: niby zupełnie do siebie podobne, a jednak zapach, forma i kolor każdej z nich jest trochę inny.
 
 Autor: Alfred Aleksander Konar
+![obraz](kob2.jpg)
 
+![obraz](kob3.jpg)
 
 # Rosaria
 Rosaria czyli ogrody różane były zakładane już w średniowieczu. Rosarium w Wojewódzkim Parku Kultury i Wypoczynku w Chorzowie (woj. ślaskie) jest największe w Polsce i jedno z większych w Europie. Posadzonych jest tam około 30 tysięcy róż. Ciekawą kolekcję róż posiada również Ogród Botaniczny w Łodzi, Ogród Botaniczny PAN w Powsinie, ogród różany w Szczecinie czy w Wilanowie.
