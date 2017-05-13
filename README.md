@@ -46,7 +46,9 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 
 
-:gift_heart: # Propozycje poczty kwiatowej:
+:gift_heart: 
+
+# Propozycje poczty kwiatowej:
 | Bukiet      | Opis           | Zdjęcie  |Cena|
 | ---------- |----------------| ---------|----|
 |"Białe róże"|Elegancja klasycznych białych róż jest niepodważalna. Niezależnie od pory roku czy okazji , bukiet z 9 białych róż to doskonały wybór! Do bukietu możesz dołączyć bilecik.|![obraz](rose1.jpg)|79zł|
