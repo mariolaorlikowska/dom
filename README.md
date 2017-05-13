@@ -1,4 +1,4 @@
-#  *kilka słów o różach*    :rose: :rose:                         
+#  *kilka słów o różach*    :rose: :rose:    :heart:                     
 
 
 :rose: :rose:     :rose: :rose:     :rose: :rose:     
@@ -17,7 +17,7 @@ int main() {
   return 0;
 }
 ```
-:heart:
+
 
 ![obraz](roza17.jpg)
 
@@ -53,7 +53,7 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 
 
-:gift_heart: :rose: :rose:   :gift_heart: :rose: :rose:   :gift_heart: :rose: :rose:     
+:heart::rose: :rose:  :heart: :rose: :rose: :heart: :rose: :rose:     
 
 ![obraz](gift2.jpg)  ![obraz](gift.jpg)
 
@@ -67,12 +67,15 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 |"Zielone róże z zieloną herbatą"|Zielony kolor symbolizuje również ...rodzącą się miłość! Jest to barwa nadziei na szczęście. Wyślij on Line 11 zielonych róż przybranych pachnącym szarym eukaliptusem i dołącz zieloną herbatę. Do przesyłki można dodać bilecik i przekazać życzenia.|![obraz](rose4.jpg)|113zł|
 
 :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
-![obraz](kob.jpg)                               ![obraz](kob2.jpg)                       ![obraz](kob3.jpg)
+
+
+![obraz](kob.jpg)                                                 ![obraz](kob3.jpg)
 
 >Kobiety są jak róże: niby zupełnie do siebie podobne, a jednak zapach, forma i kolor każdej z nich jest trochę inny.
 
 Autor: Alfred Aleksander Konar
-
+ ![obraz](kob2.jpg)    
+ 
 :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
 
 
