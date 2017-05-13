@@ -10,7 +10,7 @@
 Autor: Seweryn Goszczyński, Przy sadzeniu róż, 1831
 
 
-
+:heart:
 
 ![obraz](roza4.jpg)
 
