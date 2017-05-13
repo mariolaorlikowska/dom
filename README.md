@@ -101,11 +101,15 @@ int main() {
 ```
 :rose: :rose:    :heart:  :rose: :rose:     :rose: :rose:     :rose: :rose:     
 
-# Rosaria
-Rosaria czyli ogrody różane były zakładane już w średniowieczu. Rosarium w Wojewódzkim Parku Kultury i Wypoczynku w Chorzowie (woj. ślaskie) jest największe w Polsce i jedno z większych w Europie. Posadzonych jest tam około 30 tysięcy róż. Ciekawą kolekcję róż posiada również Ogród Botaniczny w Łodzi, Ogród Botaniczny PAN w Powsinie, ogród różany w Szczecinie czy w Wilanowie.
-Inne warte polecenia rosaria na świecie: ogród różany Józefiny w Chateau de Malmaison pod Paryżem, Europa-Rosarium w Sangerhausen (Niemcy), Roseraie du Val-de-Marne (Francja), ogród różany przed klasztorem misyjnym Santa Barbara( Kalifornia, USA), kolekcja róż w Hyde Hall (hrabstwo Essex na wschód od Londynu).
+# Rozarium
+Rozarium (łac. rosarium), różanka, ogród różany – ogród lub jego część, gdzie uprawiane i eksponowane są kolekcje róż. Rozaria cechują się zwykle bogactwem kultywarów tego rodzaju. W Europie rozaria istniały od średniowiecza, a rozpowszechniły się w XIX wieku. Za jeden z pierwszych wyspecjalizowanych ogrodów różanych uważany jest ten założony przez pierwszą żonę Napoleona Bonaparte Joséphine de Beauharnais w La Malmaison (Francja). W chwili jej śmierci, w 1814 roku, w ogrodzie, prezentowane zarówno w donicach jak i na rabatach, rosło około 400, czyli wszystkie dostępne wówczas odmiany róż[1]. Obecnie w dalszym ciągu istnieje tam rozarium, jednak ma ono niewiele wspólnego ze swoim słynnym pierwowzorem. O ile w ciągu XIX wieku róże uprawiano zwykle w rozariach, w ciągu XX wieku ich znaczenie zmalało, a róże znalazły zastosowanie w urządzaniu rozmaitych terenów zielonych.
 
-## Rosarium w Chorzowie
+Ogrody różane mają zazwyczaj geometryczną, prostolinijna architekturę. Składają się z zespołu rabat, najczęściej o regularnych, geometrycznych kształtach. Na każdej rabacie uprawiane są róże dobrane tak, by zachować harmonię kolorystyczną kwiatów. Między rabatami umieszczane są pergole, łuki i trejaże pozwalające na ekspozycję odmian pnących.
+
+Rosarium w Wojewódzkim Parku Kultury i Wypoczynku w Chorzowie (woj. ślaskie) jest największe w Polsce i jedno z większych w Europie. Posadzonych jest tam około 30 tysięcy róż. Ciekawą kolekcję róż posiada również Ogród Botaniczny w Łodzi, Ogród Botaniczny PAN w Powsinie, ogród różany w Szczecinie czy w Wilanowie.
+Inne warte polecenia rosaria na świecie: Europa-Rosarium w Sangerhausen (Niemcy), Roseraie du Val-de-Marne (Francja), ogród różany przed klasztorem misyjnym Santa Barbara( Kalifornia, USA), kolekcja róż w Hyde Hall (hrabstwo Essex na wschód od Londynu).
+
+## Rozarium w Chorzowie
 Obszar o powierzchni ponad siedmiu hektarów, to jeden z największych symboli Parku Śląskiego. Rosarium najpiękniej kwitnielatem, gdy setki tysięcy krzewów mieni się przepięknymi kolorami, a niektóre, jak frezje, wydzielają charakterystyczny, kuszący wręcz zapach.
 
 Parkowe Rosarium to układ zamknięty w tzw. plastrze miodu. Składają się na niego 374 rabatki w kształcie komórek o powierzchni 7,5 metra kwadratowego. Poza tym, w ogrodzie jest 15 dużych rabat w kształcie soczewek, które mają od 75 do 350 metrów kw. Cała kolekcja róż liczy około trzystu odmian, które można podziwiać na około 35 tysiącach krzewów.Róże najintensywniej kwitną od połowy czerwca do połowy lipca. Potem, z mniejszą intensywnością, powtarzają ten proces aż do jesieni.
