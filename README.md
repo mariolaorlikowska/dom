@@ -39,20 +39,8 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 
 
-# KOMPUTER :smile:
 
-![komputer](pics/komputer1.jpg)
-
-**Komputer** *jest to maszyna elektroniczna przeznaczona do przetwarzania informacji, oraz posiadające zdolność wykonywania wielokrotnie, automatycznie powtarzanych obliczeń, według algorytmicznego wzorca zwanego programem.*
-
-**_Programowalność_**
-
-To, co odróżnia współczesne komputery od wszystkich innych maszyn, to możliwość ich programowania, czyli wprowadzenia do pamięci komputera listy instrukcji, które mogą być wykonane w różnym czasie.
-
-kkkkkkkko
-
-llllllll
-### :computer: Propozycje poczty kwiatowej:
+### Propozycje poczty kwiatowej:
 | Bukiet      | Opis           | Zdjęcie  |Cena|
 | ---------- |----------------| ---------|----|
 |"Białe róże"|Elegancja klasycznych białych róż jest niepodważalna. Niezależnie od pory roku czy okazji , bukiet z 9 białych róż to doskonały wybór! Do bukietu możesz dołączyć bilecik.|![obraz](rose1.jpg)|79zł|
