@@ -1,7 +1,7 @@
 #  *kilka słów o różach*    :rose: :rose:                         
 
-:heart: :heart: :heart: :heart: 
 
+:rose: :rose:     :rose: :rose:     :rose: :rose:     
 
 ## Programy w języku C, który wydrukuje wiersz:
 
@@ -53,7 +53,7 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 
 
-:gift_heart: 
+:gift_heart: :rose: :rose:   :gift_heart: :rose: :rose:   :gift_heart: :rose: :rose:     
 
 ![obraz](gift2.jpg)  ![obraz](gift.jpg)
 
@@ -66,14 +66,14 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 |"Róże w pudełku"|Proponujemy Państwu nasz nowy HIT, 9 czerwonych róż w białym kwadratowym, kartonowym pudełku. Kwiaty będą trzymać się bardzo długo ponieważ ułożone zostały w gąbce florystycznej umieszczonej w plastikowym pojemniku.Do kwiatowego prezentu możesz dołączyć gratis bilecik.|![obraz](rose3.jpg)|90zł|
 |"Zielone róże z zieloną herbatą"|Zielony kolor symbolizuje również ...rodzącą się miłość! Jest to barwa nadziei na szczęście. Wyślij on Line 11 zielonych róż przybranych pachnącym szarym eukaliptusem i dołącz zieloną herbatę. Do przesyłki można dodać bilecik i przekazać życzenia.|![obraz](rose4.jpg)|113zł|
 
-
+:heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
 ![obraz](kob.jpg)                               ![obraz](kob2.jpg)                       ![obraz](kob3.jpg)
 
 >Kobiety są jak róże: niby zupełnie do siebie podobne, a jednak zapach, forma i kolor każdej z nich jest trochę inny.
 
 Autor: Alfred Aleksander Konar
 
-
+:heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
 
 
 # Rosaria
