@@ -2,7 +2,7 @@
 
 
 
-**![ciastko](http://zdjecia.nurka.pl/url/republika.pl-blog-ds-1189624-4528593-tr-kroliczek-z-roza.gif.html)**
+**![różą](http://zdjecia.nurka.pl/url/republika.pl-blog-ds-1189624-4528593-tr-kroliczek-z-roza.gif.html)**
 
 
 
