@@ -29,22 +29,11 @@ To, co odróżnia współczesne komputery od wszystkich innych maszyn, to możli
 kkkkkkkko
 
 llllllll
-### :computer: Subiektywna lista najważniejszych komputerów osobistych w historii:
-| Nazwa      | Opis           | Zdjęcie  |Cena|
+### :computer: Propozycje poczty kwiatowej:
+| Bukiet      | Opis           | Zdjęcie  |Cena|
 | ---------- |----------------| ---------|----|
-|Bukiet "Białe róże"|Elegancja klasycznych białych róż jest niepodważalna. Niezależnie od pory roku czy okazji , bukiet z 9 białych róż to doskonały wybór! Do bukietu możesz dołączyć bilecik.|gggggggggggggg yyyyyyyyyyy uuuuuuuuuuuu jjjjjjjj|79zł|
+|"Białe róże"|Elegancja klasycznych białych róż jest niepodważalna. Niezależnie od pory roku czy okazji , bukiet z 9 białych róż to doskonały wybór! Do bukietu możesz dołączyć bilecik.|gggggggggggggg yyyyyyyyyyy uuuuuuuuuuuu jjjjjjjj|79zł|
 |"Herbaciane róże" | To kolor słońca i radości , wyzwala dobrą energię i ciepło. Wyślij więc online bukiet 15 herbacianych róż z zielonym przybraniem. Do bukietu dołącz bilecik i napisz życzenia.| oooooooooo uuuuuuuuu yyyyyyyy|113zł|
 |"Róże w pudełku"|Proponujemy Państwu nasz nowy HIT, 9 czerwonych róż w białym kwadratowym, kartonowym pudełku. Kwiaty będą trzymać się bardzo długo ponieważ ułożone zostały w gąbce florystycznej umieszczonej w plastikowym pojemniku.Do kwiatowego prezentu możesz dołączyć gratis bilecik.|obraz|90zł|
-*j kkkkkkkk llll *
-*kkkk
-*llllll
-*bbbb
-  *nnnnnn
-  *kkkkkkkkk
+|"Zielone róże z zieloną herbatą"|Zielony kolor symbolizuje również ...rodzącą się miłość! Jest to barwa nadziei na szczęście. Wyślij on Line 11 zielonych róż przybranych pachnącym szarym eukaliptusem i dołącz zieloną herbatę. Do przesyłki można dodać bilecik i przekazać życzenia.|obraz|113zł|
 
-
-1 jjjjjj
-1 kkkkkkk
-1 lllllll
- 1 kkkkkk
- 1 uuuuuu
