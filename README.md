@@ -32,8 +32,9 @@ llllllll
 ### :computer: Subiektywna lista najważniejszych komputerów osobistych w historii:
 | Nazwa      | Opis           | Zdjęcie  |Cena|
 | ---------- |----------------| ---------|----|
-|kkkk2|kkk3|gggggggggggggg yyyyyyyyyyy uuuuuuuuuuuu jjjjjjjj|99zł|
-|jjjjjjj uuuuuuuuuuu ooooooo | jjjjjjjjjjj iiiiiiiiii oooo   oooooooooooooo| oooooooooo uuuuuuuuu yyyyyyyy|
+|Bukiet "Białe róże"|Elegancja klasycznych białych róż jest niepodważalna. Niezależnie od pory roku czy okazji , bukiet z 9 białych róż to doskonały wybór! Do bukietu możesz dołączyć bilecik.|gggggggggggggg yyyyyyyyyyy uuuuuuuuuuuu jjjjjjjj|79zł|
+|"Herbaciane róże" | To kolor słońca i radości , wyzwala dobrą energię i ciepło. Wyślij więc online bukiet 15 herbacianych róż z zielonym przybraniem. Do bukietu dołącz bilecik i napisz życzenia.| oooooooooo uuuuuuuuu yyyyyyyy|113zł|
+|"Róże w pudełku"|Proponujemy Państwu nasz nowy HIT, 9 czerwonych róż w białym kwadratowym, kartonowym pudełku. Kwiaty będą trzymać się bardzo długo ponieważ ułożone zostały w gąbce florystycznej umieszczonej w plastikowym pojemniku.Do kwiatowego prezentu możesz dołączyć gratis bilecik.|obraz|90zł|
 *j kkkkkkkk llll *
 *kkkk
 *llllll
