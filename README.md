@@ -49,10 +49,21 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 |"Róże w pudełku"|Proponujemy Państwu nasz nowy HIT, 9 czerwonych róż w białym kwadratowym, kartonowym pudełku. Kwiaty będą trzymać się bardzo długo ponieważ ułożone zostały w gąbce florystycznej umieszczonej w plastikowym pojemniku.Do kwiatowego prezentu możesz dołączyć gratis bilecik.|![obraz](rose3.jpg)|90zł|
 |"Zielone róże z zieloną herbatą"|Zielony kolor symbolizuje również ...rodzącą się miłość! Jest to barwa nadziei na szczęście. Wyślij on Line 11 zielonych róż przybranych pachnącym szarym eukaliptusem i dołącz zieloną herbatę. Do przesyłki można dodać bilecik i przekazać życzenia.|![obraz](rose4.jpg)|113zł|
 
-**Rosaria czyli ogrody różane były zakładane już w średniowieczu. Rosarium w Wojewódzkim Parku Kultury i Wypoczynku w Chorzowie (woj. ślaskie) jest największe w Polsce i jedno z większych w Europie. Posadzonych jest tam około 30 tysięcy róż. Ciekawą kolekcję róż posiada również Ogród Botaniczny w Łodzi, Ogród Botaniczny PAN w Powsinie, ogród różany w Szczecinie czy w Wilanowie.
-Inne warte polecenia rosaria na świecie: ogród różany Józefiny w Chateau de Malmaison pod Paryżem, Europa-Rosarium w Sangerhausen (Niemcy), Roseraie du Val-de-Marne (Francja), ogród różany przed klasztorem misyjnym Santa Barbara( Kalifornia, USA), kolekcja róż w Hyde Hall (hrabstwo Essex na wschód od Londynu). 
-Wielką miłośniczką róż była Józefina, żona Napoleona. Za jej sprawą do Francji sprowadzono około 250 odmian tych kwiatów z różnych stron świata.** 
 
+##Rosaria##
+**Rosaria czyli ogrody różane były zakładane już w średniowieczu. Rosarium w Wojewódzkim Parku Kultury i Wypoczynku w Chorzowie (woj. ślaskie) jest największe w Polsce i jedno z większych w Europie. Posadzonych jest tam około 30 tysięcy róż. Ciekawą kolekcję róż posiada również Ogród Botaniczny w Łodzi, Ogród Botaniczny PAN w Powsinie, ogród różany w Szczecinie czy w Wilanowie.
+Inne warte polecenia rosaria na świecie: ogród różany Józefiny w Chateau de Malmaison pod Paryżem, Europa-Rosarium w Sangerhausen (Niemcy), Roseraie du Val-de-Marne (Francja), ogród różany przed klasztorem misyjnym Santa Barbara( Kalifornia, USA), kolekcja róż w Hyde Hall (hrabstwo Essex na wschód od Londynu).** 
+
+##Chorzów##
+**Obszar o powierzchni ponad siedmiu hektarów, to jeden z największych symboli Parku Śląskiego. Rosarium najpiękniej kwitnielatem, gdy setki tysięcy krzewów mieni się przepięknymi kolorami, a niektóre, jak frezje, wydzielają charakterystyczny, kuszący wręcz zapach.
+
+Parkowe Rosarium to układ zamknięty w tzw. plastrze miodu. Składają się na niego 374 rabatki w kształcie komórek o powierzchni 7,5 metra kwadratowego. Poza tym, w ogrodzie jest 15 dużych rabat w kształcie soczewek, które mają od 75 do 350 metrów kw. Cała kolekcja róż liczy około trzystu odmian, które można podziwiać na około 35 tysiącach krzewów.
+
+Najlepsze lato
+
+Róże najintensywniej kwitną od połowy czerwca do połowy lipca. Potem, z mniejszą intensywnością, powtarzają ten proces aż do jesieni.
+
+– Lato to dla Rosarium taki szczególny okres. Goście wiedzą już bowiem, że róże wyglądają wtedy najpiękniej i chętnie odwiedzają nasz ogród – przyznaje Łukasz Drozd, który nadzoruje pielęgnację parkowej zieleni. – Stałą popularnością cieszy się róża rugosa. Jej płatki wykorzystywane są do konfitur, kosmetyków i kąpieli. Jednak nie wolno ich zrywać z kwiatów. Należy zaczekać aż opadną – mówi. Większość odmian róż w Parku Śląskim to produkty krajowe oraz europejskich hodowców. Każdego roku ogrodnicy starają się poszerzać kolekcję. – Ze względu na zimotrwałość, zakupujemy tylko odmiany najodporniejsze. Niektóre z naszych róż mają ponad 25 lat – przyznaje Drozd.**
 ![obraz](chorzow1.jpg)
 ![obraz](chorzow2.jpg)
 ![obraz](chorzow3.jpg)
