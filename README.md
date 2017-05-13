@@ -29,7 +29,7 @@ int main() {
 
 W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 grup:
 
-1. *Róże wielkokwiatowe:*
+1. **_Róże wielkokwiatowe:_**
  - Krzewy o wysokości od 0,5 do 1,5 m. Podczas kwitnienia posiadają duże pąki o pięknym kształcie, rozwijają się w ogromne kwiaty o przeróżnych barwach. Najliczniejsza i najważniejsza grupa odmian przeznaczonych do ogrodów oraz do uprawy na kwiat cięty.
 
 2. *Róże rabatowe:*
