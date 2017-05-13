@@ -64,6 +64,12 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 |"Zielone róże z zieloną herbatą"|Zielony kolor symbolizuje również ...rodzącą się miłość! Jest to barwa nadziei na szczęście. Wyślij on Line 11 zielonych róż przybranych pachnącym szarym eukaliptusem i dołącz zieloną herbatę. Do przesyłki można dodać bilecik i przekazać życzenia.|![obraz](rose4.jpg)|113zł|
 
 
+
+>Kobiety są jak róże: niby zupełnie do siebie podobne, a jednak zapach, forma i kolor każdej z nich jest trochę inny.
+
+Autor: Alfred Aleksander Konar
+
+
 # Rosaria
 Rosaria czyli ogrody różane były zakładane już w średniowieczu. Rosarium w Wojewódzkim Parku Kultury i Wypoczynku w Chorzowie (woj. ślaskie) jest największe w Polsce i jedno z większych w Europie. Posadzonych jest tam około 30 tysięcy róż. Ciekawą kolekcję róż posiada również Ogród Botaniczny w Łodzi, Ogród Botaniczny PAN w Powsinie, ogród różany w Szczecinie czy w Wilanowie.
 Inne warte polecenia rosaria na świecie: ogród różany Józefiny w Chateau de Malmaison pod Paryżem, Europa-Rosarium w Sangerhausen (Niemcy), Roseraie du Val-de-Marne (Francja), ogród różany przed klasztorem misyjnym Santa Barbara( Kalifornia, USA), kolekcja róż w Hyde Hall (hrabstwo Essex na wschód od Londynu).
