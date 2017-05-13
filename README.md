@@ -1,5 +1,5 @@
 #  *kilka słów o różach* 
-
+![obraz](rose3.jpg)
 >„Sadźmy, przyjacielu, róże!
 Długo jeszcze, długo światu
 Szumieć będą śnieżne burze,
@@ -7,11 +7,11 @@ Sadźmy je przyszłemu latu!
 
 
 >Autor: Seweryn Goszczyński, Przy sadzeniu róż, 1831
-
+![obraz](rose8.jpg)
 **![ciastko](http://www.e-gify.pl/gify/rozne/jedzenie_i_picie/jedzenie_i_picie40.gif)**
 
 (http://siostra-anastazja.pl/przepis/ciasto-anielskie.htm)
-
+![obraz](rose4.jpg)
 ## Grupy róż
 
 W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 grup:
