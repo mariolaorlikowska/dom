@@ -62,6 +62,10 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
 
+
+
+**![różą](http://zdjecia.nurka.pl/images/republika.pl-blog-ds-1189624-4528593-tr-kroliczek-z-roza.gif)**
+
 # Kobiety lubią róże
 
 
@@ -85,7 +89,7 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
  
 :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
 
-**![różą](http://zdjecia.nurka.pl/images/republika.pl-blog-ds-1189624-4528593-tr-kroliczek-z-roza.gif)**
+
 
 ## Programy w języku C, który wydrukuje wiersz:
 
