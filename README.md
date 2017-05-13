@@ -90,7 +90,7 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 > # Kobiety są jak róże: niby zupełnie do siebie podobne, a jednak zapach, forma i kolor każdej z nich jest trochę inny.
 
-Autor: Alfred Aleksander Konar
+## Autor: Alfred Aleksander Konar
  
  
  
