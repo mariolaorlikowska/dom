@@ -65,6 +65,8 @@ Parkowe Rosarium to układ zamknięty w tzw. plastrze miodu. Składają się na 
 
 >Lato to dla Rosarium taki szczególny okres. Goście wiedzą już bowiem, że róże wyglądają wtedy najpiękniej i chętnie odwiedzają nasz ogród - przyznaje Łukasz Drozd, który nadzoruje pielęgnację parkowej zieleni. Stałą popularnością cieszy się róża rugosa. Jej płatki wykorzystywane są do konfitur, kosmetyków i kąpieli. Jednak nie wolno ich zrywać z kwiatów. Należy zaczekać aż opadną – mówi. Większość odmian róż w Parku Śląskim to produkty krajowe oraz europejskich hodowców. Każdego roku ogrodnicy starają się poszerzać kolekcję.Ze względu na zimotrwałość, zakupujemy tylko odmiany najodporniejsze. Niektóre z naszych róż mają ponad 25 lat – przyznaje Drozd.
 
+Jesli chcesz dowiedzieć się więcej o tym parku, odwiedź stronę:  http://www.parkslaski.pl/
+
 ![obraz](chorzow2.jpg)
 ![obraz](chorzow3.jpg)
 ![obraz](chorzow4.jpg)
