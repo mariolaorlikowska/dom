@@ -19,7 +19,7 @@ int main() {
 ```
 
 
-![obraz](roza17.jpg)
+
 
 :bangbang: **Róża, to jeden z najpiękniejszych rodzajów wśród krzewów, którego zalety doceniono już w starożytności i od tamtego czasu, róża zajmuje czołowe miejsce wśród roślin ozdobnych, nazywana często „królową kwiatów”. Róże występują w całej strefie umiarkowanej półkuli północnej i mają postać krzewów, bardzo zróżnicowanych, zależnie od gatunku. Ich wysokość waha się od piętnastu centymetrów, do nawet dziesięciu metrów u form pnących. Pędy wzniesione, czepne lub płożące się, uzbrojone mniej lub licznej w kolce. Kwiaty promieniste, podwójne, półpełne lub pełne w wszystkich barwach, za wyjątkiem czysto niebieskiej. Tysiące odmian róż, jakie są obecnie dostępne, możemy pogrupować na kilka grup.**![obraz](roza8.jpg)
 
@@ -69,12 +69,21 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
 
 
-![obraz](kob.jpg)                                                 ![obraz](kob3.jpg)
+![obraz](kob.jpg)                       ![obraz](kob22.jpg)                             ![obraz](kob3.jpg)
 
 >Kobiety są jak róże: niby zupełnie do siebie podobne, a jednak zapach, forma i kolor każdej z nich jest trochę inny.
 
 Autor: Alfred Aleksander Konar
- ![obraz](kob2.jpg)    
+ ![obraz](kob4.jpg)
+ ![obraz](kob5.jpg)
+  ![obraz](kob6.jpg)
+   ![obraz](kob7.jpg)
+    ![obraz](kob8.jpg)
+     ![obraz](kob9.jpg)
+      ![obraz](kob10.jpg)
+ 
+ 
+ 
  
 :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
 
