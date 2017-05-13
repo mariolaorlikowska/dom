@@ -53,7 +53,7 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 Inne warte polecenia rosaria na świecie: ogród różany Józefiny w Chateau de Malmaison pod Paryżem, Europa-Rosarium w Sangerhausen (Niemcy), Roseraie du Val-de-Marne (Francja), ogród różany przed klasztorem misyjnym Santa Barbara( Kalifornia, USA), kolekcja róż w Hyde Hall (hrabstwo Essex na wschód od Londynu). 
 Wielką miłośniczką róż była Józefina, żona Napoleona. Za jej sprawą do Francji sprowadzono około 250 odmian tych kwiatów z różnych stron świata.** 
 
-![obraz](chorzow1.jpg)|
-![obraz](chorzow2.jpg)|
-![obraz](chorzow3.jpg)|
-![obraz](chorzow4.jpg)|
+![obraz](chorzow1.jpg)
+![obraz](chorzow2.jpg)
+![obraz](chorzow3.jpg)
+![obraz](chorzow4.jpg)
