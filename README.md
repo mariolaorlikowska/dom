@@ -93,15 +93,18 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 ## Programy w języku C, który wydrukuje wiersz:
 
+
+
+
 ```c
 #include <stdio.h>
 int main() {
-  printf("Sadźmy, przyjacielu, róże!\n");
-  printf("Długo jeszcze, długo światu\n");
-  printf("Szumieć będą śnieżne burze, \n");
-  printf("Sadźmy je przyszłemu latu!\n");
+  printf("Nie rusz Andziu, tego kwiatka,\n");
+  printf("Róża kole, rzekła matka.\n");
+  printf("Andzia mamy nie słuchała,, \n");
+  printf("Ukłuła się i płakała.\n");
   printf("\n");
-  printf("Autor: Seweryn Goszczyński, Przy sadzeniu róż, 1831\n");
+  printf("Autor: Stanisław Jachowicz, Powiastki i bajki. Andzia, 1842\n");
   return 0;
 }
 ```
