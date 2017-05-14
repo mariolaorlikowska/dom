@@ -148,7 +148,7 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
  
  :rose: :rose:    :heart:  :rose: :rose:     :rose: :rose:     :rose: :rose:     :rose: :rose:    :heart:  :rose: :rose:     :rose: 
  
- ![obraz](gift2.jpg)  ![obraz](gift.jpg)  ![obraz](roza15.jpg)
+ ![obraz](gift2.jpg)  ![obraz](gift.jpg)  ![obraz](roza151.jpg)
 
 
 # Propozycje poczty kwiatowej:
