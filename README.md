@@ -79,13 +79,7 @@ mojombo/github-flavored-markdown#1
 
 
 
-#  *kilka słów o różach*   tag                    
-
-
-
-
-
-
+#  *kilka słów o różach*                  
 
  ![obraz](roza17.jpg)
 
@@ -95,9 +89,9 @@ mojombo/github-flavored-markdown#1
 
 ![obraz](roza12.jpg)        ![obraz](roza12.jpg)
 
-# Grupy róż
+## Grupy róż
 
-W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 grup:
+**W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 grup:**
 
 **_1. Róże wielkokwiatowe:_**
  - Krzewy o wysokości od 0,5 do 1,5 m. Podczas kwitnienia posiadają duże pąki o pięknym kształcie, rozwijają się w ogromne kwiaty o przeróżnych barwach. Najliczniejsza i najważniejsza grupa odmian przeznaczonych do ogrodów oraz do uprawy na kwiat cięty.
@@ -154,9 +148,9 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 # Propozycje poczty kwiatowej:
 | Bukiet      | Opis           | Zdjęcie  |Cena|
 | ---------- |----------------| ---------|----|
-|"Białe róże"|Elegancja klasycznych białych róż jest niepodważalna. Niezależnie od pory roku czy okazji , bukiet z 9 białych róż to doskonały wybór! Do bukietu możesz dołączyć bilecik.|![obraz](rose1.jpg)|~~79zł~~ 70zł|
+|"Białe róże"|Elegancja klasycznych białych róż jest niepodważalna. Niezależnie od pory roku czy okazji , bukiet z 9 białych róż to doskonały wybór! Do bukietu możesz dołączyć bilecik.|![obraz](rose1.jpg)|~~79zł~~ **70zł**|
 |"Herbaciane róże" | To kolor słońca i radości , wyzwala dobrą energię i ciepło. Wyślij więc online bukiet 15 herbacianych róż z zielonym przybraniem. Do bukietu dołącz bilecik i napisz życzenia.| ![obraz](rose2.jpg)|113zł|
-|"Róże w pudełku"|Proponujemy Państwu nasz nowy HIT, 9 czerwonych róż w białym kwadratowym, kartonowym pudełku. Kwiaty będą trzymać się bardzo długo ponieważ ułożone zostały w gąbce florystycznej umieszczonej w plastikowym pojemniku.Do kwiatowego prezentu możesz dołączyć gratis bilecik.|![obraz](rose3.jpg)|~~90zł~~ 80zł|
+|"Róże w pudełku"|Proponujemy Państwu nasz nowy HIT, 9 czerwonych róż w białym kwadratowym, kartonowym pudełku. Kwiaty będą trzymać się bardzo długo ponieważ ułożone zostały w gąbce florystycznej umieszczonej w plastikowym pojemniku.Do kwiatowego prezentu możesz dołączyć gratis bilecik.|![obraz](rose3.jpg)|~~90zł~~ **80zł**|
 |"Zielone róże z zieloną herbatą"|Zielony kolor symbolizuje również ...rodzącą się miłość! Jest to barwa nadziei na szczęście. Wyślij on Line 11 zielonych róż przybranych pachnącym szarym eukaliptusem i dołącz zieloną herbatę. Do przesyłki można dodać bilecik i przekazać życzenia.|![obraz](rose4.jpg)|113zł|
 
 
