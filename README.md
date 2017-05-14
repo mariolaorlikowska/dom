@@ -44,27 +44,8 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 
 
-:heart::rose: :rose:  :heart: :rose: :rose: :heart: :rose: :rose:     
+:heart:  :heart: :heart:    :heart:  :heart: :heart:  :heart:  :heart: :heart:  :heart:  :heart: :heart:  :heart:  :heart: :heart:  
 
-![obraz](gift2.jpg)  ![obraz](gift.jpg)
-
-
-# Propozycje poczty kwiatowej:
-| Bukiet      | Opis           | Zdjęcie  |Cena|
-| ---------- |----------------| ---------|----|
-|"Białe róże"|Elegancja klasycznych białych róż jest niepodważalna. Niezależnie od pory roku czy okazji , bukiet z 9 białych róż to doskonały wybór! Do bukietu możesz dołączyć bilecik.|![obraz](rose1.jpg)|79zł|
-|"Herbaciane róże" | To kolor słońca i radości , wyzwala dobrą energię i ciepło. Wyślij więc online bukiet 15 herbacianych róż z zielonym przybraniem. Do bukietu dołącz bilecik i napisz życzenia.| ![obraz](rose2.jpg)|113zł|
-|"Róże w pudełku"|Proponujemy Państwu nasz nowy HIT, 9 czerwonych róż w białym kwadratowym, kartonowym pudełku. Kwiaty będą trzymać się bardzo długo ponieważ ułożone zostały w gąbce florystycznej umieszczonej w plastikowym pojemniku.Do kwiatowego prezentu możesz dołączyć gratis bilecik.|![obraz](rose3.jpg)|90zł|
-|"Zielone róże z zieloną herbatą"|Zielony kolor symbolizuje również ...rodzącą się miłość! Jest to barwa nadziei na szczęście. Wyślij on Line 11 zielonych róż przybranych pachnącym szarym eukaliptusem i dołącz zieloną herbatę. Do przesyłki można dodać bilecik i przekazać życzenia.|![obraz](rose4.jpg)|113zł|
-
-
-:link: Jesli chcesz zobaczyć więcej propozycji, odwiedź stronę:  http://kwiatyonline.com.pl/pl/, https://www.kwiatowaprzesylka.pl/#!/home
-
-:heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
-
-
-
-**![różą](http://zdjecia.nurka.pl/images/republika.pl-blog-ds-1189624-4528593-tr-kroliczek-z-roza.gif)**
 
 # Kobiety lubią róże
 
@@ -84,10 +65,31 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 
 ## Autor: Alfred Aleksander Konar
  
+ :rose: :rose:    :heart:  :rose: :rose:     :rose: :rose:     :rose: :rose:     :rose: :rose:    :heart:  :rose: :rose:     :rose: 
  
- 
- 
+ ![obraz](gift2.jpg)  ![obraz](gift.jpg)
+
+
+# Propozycje poczty kwiatowej:
+| Bukiet      | Opis           | Zdjęcie  |Cena|
+| ---------- |----------------| ---------|----|
+|"Białe róże"|Elegancja klasycznych białych róż jest niepodważalna. Niezależnie od pory roku czy okazji , bukiet z 9 białych róż to doskonały wybór! Do bukietu możesz dołączyć bilecik.|![obraz](rose1.jpg)|79zł|
+|"Herbaciane róże" | To kolor słońca i radości , wyzwala dobrą energię i ciepło. Wyślij więc online bukiet 15 herbacianych róż z zielonym przybraniem. Do bukietu dołącz bilecik i napisz życzenia.| ![obraz](rose2.jpg)|113zł|
+|"Róże w pudełku"|Proponujemy Państwu nasz nowy HIT, 9 czerwonych róż w białym kwadratowym, kartonowym pudełku. Kwiaty będą trzymać się bardzo długo ponieważ ułożone zostały w gąbce florystycznej umieszczonej w plastikowym pojemniku.Do kwiatowego prezentu możesz dołączyć gratis bilecik.|![obraz](rose3.jpg)|90zł|
+|"Zielone róże z zieloną herbatą"|Zielony kolor symbolizuje również ...rodzącą się miłość! Jest to barwa nadziei na szczęście. Wyślij on Line 11 zielonych róż przybranych pachnącym szarym eukaliptusem i dołącz zieloną herbatę. Do przesyłki można dodać bilecik i przekazać życzenia.|![obraz](rose4.jpg)|113zł|
+
+
+:link: Jesli chcesz zobaczyć więcej propozycji, odwiedź stronę:  http://kwiatyonline.com.pl/pl/, https://www.kwiatowaprzesylka.pl/#!/home
+
 :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
+
+
+
+**![różą](http://zdjecia.nurka.pl/images/republika.pl-blog-ds-1189624-4528593-tr-kroliczek-z-roza.gif)**
+
+ 
+ 
+:heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: :heart: 
 
 
 
