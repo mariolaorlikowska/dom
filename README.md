@@ -120,14 +120,17 @@ mojombo/github-flavored-markdown#1
 
 
   ![obraz](roza8.jpg)             ![obraz](roza8.jpg) 
-:heart:  :heart: :heart:    :heart:  :heart: :heart:  :heart:  :heart: :heart:  :heart:  :heart: :heart:  :heart:  :heart: :heart:  
+  
+:heart:  :heart: :heart:    :heart:  :heart: :heart:  :heart:  :heart: :heart:  :heart:  :heart: :heart:   
 
-<h6>
->Ach ta róża! ach ta róża!<h6>
->Co się w twoje okno wdziera,<h6>
->Na pokusy mnie wystawia,<h6>
->Sen i spokój mi odbiera…<h6>
+<h5>
+Ach ta róża! ach ta róża!<h5>
+Co się w twoje okno wdziera,<h5>
+Na pokusy mnie wystawia,<h5>
+Sen i spokój mi odbiera…<h5>
 Autor: Adam Asnyk, Róża
+
+
 ![obraz](roza10.jpg)  ![obraz](roza10.jpg)
 
 # Kobiety lubią róże
