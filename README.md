@@ -93,7 +93,7 @@ mojombo/github-flavored-markdown#1
 
 
 
-![obraz](roza12.jpg)        ![obraz](roza8.jpg)           ![obraz](roza10.jpg)  ![obraz](roza8.jpg)   ![obraz](roza12.jpg)
+![obraz](roza12.jpg)        ![obraz](roza12.jpg)
 
 # Grupy róż
 
@@ -124,7 +124,7 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
 :link: Jesli chcesz dowiedzieć się więcej o różach, odwiedź strony:  http://poradnikogrodniczy.pl/roze.php , http://www.zielonyogrodek.pl/przycinanie-roz-po-co-kiedy-i-jak-przycinac-roze
 
 
-
+  ![obraz](roza8.jpg)           ![obraz](roza10.jpg)  ![obraz](roza8.jpg) 
 :heart:  :heart: :heart:    :heart:  :heart: :heart:  :heart:  :heart: :heart:  :heart:  :heart: :heart:  :heart:  :heart: :heart:  
 
 
@@ -148,7 +148,7 @@ W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 gr
  
  :rose: :rose:    :heart:  :rose: :rose:     :rose: :rose:     :rose: :rose:     :rose: :rose:    :heart:  :rose: :rose:     :rose: 
  
- ![obraz](gift2.jpg)  ![obraz](gift.jpg)
+ ![obraz](gift2.jpg)  ![obraz](gift.jpg)  ![obraz](roza15.jpg)
 
 
 # Propozycje poczty kwiatowej:
