@@ -93,7 +93,7 @@ mojombo/github-flavored-markdown#1
 
 
 
- ![obraz](roza10.jpg)  ![obraz](roza8.jpg)   ![obraz](roza12.jpg)
+![obraz](roza12.jpg)        ![obraz](roza8.jpg)           ![obraz](roza10.jpg)  ![obraz](roza8.jpg)   ![obraz](roza12.jpg)
 
 # Grupy róż
 
