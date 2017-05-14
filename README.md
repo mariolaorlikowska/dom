@@ -95,25 +95,25 @@ mojombo/github-flavored-markdown#1
 **W ogrodnictwie, ze względu na pokrój i zastosowanie róże dzieli się na 7 grup:**
 
 **_1. Róże wielkokwiatowe:_**
- - Krzewy o wysokości od 0,5 do 1,5 m. Podczas kwitnienia posiadają duże pąki o pięknym kształcie, rozwijają się w ogromne kwiaty o przeróżnych barwach. Najliczniejsza i najważniejsza grupa odmian przeznaczonych do ogrodów oraz do uprawy na kwiat cięty.
+ - Krzewy o wysokości od 0,5 do 1,5 m. Podczas kwitnienia posiadają duże pąki o pięknym kształcie, rozwijają się w ogromne kwiaty o przeróżnych barwach. Najliczniejsza i najważniejsza grupa odmian przeznaczonych do ogrodów oraz do uprawy na kwiat cięty.:rose:
 
 **_2. Róże rabatowe:_**
- - Krzewy niższe od róż wielkokwiatowych. Silnie się krzewią oraz obficie kwitną od wiosny do późnej jesieni. Są wytrzymałe na niskie temperatury, długowieczne i bardziej odporne na choroby.
+ - Krzewy niższe od róż wielkokwiatowych. Silnie się krzewią oraz obficie kwitną od wiosny do późnej jesieni. Są wytrzymałe na niskie temperatury, długowieczne i bardziej odporne na choroby.:rose:
 
 **_3. Róże pnące:_**
- - Krzewy o długich pędach, dochodzących do 6-8 m. Nie mają organów czepnych, należy je przywiązywać do podpór. Kwitnie obficie. Sadzi się je przy pergolach, altanach, ścianach.
+ - Krzewy o długich pędach, dochodzących do 6-8 m. Nie mają organów czepnych, należy je przywiązywać do podpór. Kwitnie obficie. Sadzi się je przy pergolach, altanach, ścianach.:rose:
 
 **_4. Róże parkowe:_**
- - Krzewy silnie rosnące, o pędach prostych i ukośnych, dochodzących do wysokości 2,5 m. Kwitnie obficie, raz w roku. Kwiaty są pojedyncze, półpełne lub pełne, często o intensywnym zapachu.
+ - Krzewy silnie rosnące, o pędach prostych i ukośnych, dochodzących do wysokości 2,5 m. Kwitnie obficie, raz w roku. Kwiaty są pojedyncze, półpełne lub pełne, często o intensywnym zapachu.:rose:
 
 **_5. Róże pienne:_**
- - Nie stanowią odrębnej grupy odmian. Są to krzewy odmian szlachetnych wyprowadzone w formie drzewka. Powstają w wyniku okulizacji lub szczepienia na specjalnie wyprowadzonych pionowo pędach.
+ - Nie stanowią odrębnej grupy odmian. Są to krzewy odmian szlachetnych wyprowadzone w formie drzewka. Powstają w wyniku okulizacji lub szczepienia na specjalnie wyprowadzonych pionowo pędach.:rose:
  
 **_6. Róże okrywowe:_**
- - Silnie się krzewią. Z pędów i liści tworzą zwartą okrywę z pędów i liści. Kwitnie obficie i długo.
+ - Silnie się krzewią. Z pędów i liści tworzą zwartą okrywę z pędów i liści. Kwitnie obficie i długo.:rose:
 
 **_7. Róże miniaturowe:_**
- - Pochodzą od róży chińskiej odmiany niskiej – Rosa chinensis minima. Delikatne, niskie krzewy o małych kwiatach i drobnych liściach. Wrażliwe na niskie temperatury. Wymagają kopczykowania. Często wykorzystywane do dekoracji wnętrz.
+ - Pochodzą od róży chińskiej odmiany niskiej – Rosa chinensis minima. Delikatne, niskie krzewy o małych kwiatach i drobnych liściach. Wrażliwe na niskie temperatury. Wymagają kopczykowania. Często wykorzystywane do dekoracji wnętrz.:rose:
 
 
 :link: Jesli chcesz dowiedzieć się więcej o różach, odwiedź strony:  http://poradnikogrodniczy.pl/roze.php , http://www.zielonyogrodek.pl/przycinanie-roz-po-co-kiedy-i-jak-przycinac-roze
