@@ -1,4 +1,4 @@
-# _ z bloga Klaudyny Herdy
+# *z bloga Klaudyny Herdy*
 RÓŻANY ELIKSIR SZCZĘŚCIA.
 
 
@@ -22,9 +22,9 @@ RÓŻANY ELIKSIR SZCZĘŚCIA.
 
 ![obraz](elisir1.jpg)
 
-* Przygotowanie różanego eliksiru jest bardzo proste. Będziemy potrzebować alkoholu, miodu (działanie wzmacniające) oraz płatków róży. Teoretycznie każda róża jest jadalna i każda ma jakieś właściwości lecznicze, ale najlepsze są róże mocno pachnące – zwłaszcza stulistna, galicyjska, damasceńska. Mają największe stężenie substancji czynnych (głównie jest to cytronellol i geraniol), najpiękniejszy zapach i najlepsze właściwości. Do eliksiru dodałam również pyłku pszczelego, który jest świetnym produktem wzmacniającym, zwłaszcza w sytuacjach stresogennych. Można pominąć jego dodatek.
+*Przygotowanie różanego eliksiru jest bardzo proste. Będziemy potrzebować alkoholu, miodu (działanie wzmacniające) oraz płatków róży. Teoretycznie każda róża jest jadalna i każda ma jakieś właściwości lecznicze, ale najlepsze są róże mocno pachnące – zwłaszcza stulistna, galicyjska, damasceńska. Mają największe stężenie substancji czynnych (głównie jest to cytronellol i geraniol), najpiękniejszy zapach i najlepsze właściwości. Do eliksiru dodałam również pyłku pszczelego, który jest świetnym produktem wzmacniającym, zwłaszcza w sytuacjach stresogennych. Można pominąć jego dodatek.*
 
-* Jeśli z jakiegokolwiek powodu nie chcecie lub nie możecie używać miodu, można zastąpić go gliceryną roślinną, tworząc prosty gliceryt.
+*Jeśli z jakiegokolwiek powodu nie chcecie lub nie możecie używać miodu, można zastąpić go gliceryną roślinną, tworząc prosty gliceryt.*
 
 ### Krok pierwszy
 
