@@ -1,68 +1,64 @@
-POMYSŁ NA PŁATKI RÓŻY: RÓŻANY ELIKSIR SZCZĘŚCIA.
-Dzień dobry,
+# z bloga Klaudyny Herdy
+RÓŻANY ELIKSIR SZCZĘŚCIA.
 
-Zapraszam Was na jeden z najpiękniejszych postów w Ziołowym Zakątku!
 
-Tak jak obiecałam, będziemy mówić o przeróżnych pomysłach na płatki róży. Na pewno kojarzycie zastosowanie kosmetyczne (zapachy różane, różany olejek, wodę z kwiatów róży), na pewno znacie zastosowanie kulinarne (pyszne konfitury!), ale czy wiecie, że płatki róży mają właściwości lecznicze?
+>Tak jak obiecałam, będziemy mówić o przeróżnych pomysłach na płatki róży. Na pewno kojarzycie zastosowanie kosmetyczne (zapachy różane, różany olejek, wodę z kwiatów róży), na pewno znacie zastosowanie kulinarne (pyszne konfitury!), ale czy wiecie, że płatki róży mają właściwości lecznicze?
 
-Dziś zapraszam Was do przygotowania ze mną różanego eliksiru szczęścia. Nazwałam go tak nie tylko dlatego, że pięknie wygląda i od razu przywołuje na twarz uśmiech i wspomnienia z dzieciństwa: jest w tym coś więcej!
+>Dziś zapraszam Was do przygotowania ze mną różanego eliksiru szczęścia. Nazwałam go tak nie tylko dlatego, że pięknie wygląda i od razu przywołuje na twarz uśmiech i wspomnienia z dzieciństwa: jest w tym coś więcej!
 
-Zapraszam!
+>Zapraszam!
 
-Zastosowania lecznicze płatków róży.
-roza-elisir-1231
+>Zastosowania lecznicze płatków róży
 
-Róża ma mnóstwo zastosowań leczniczych – naturalny olejek różany to jeden z najcenniejszych, najdroższych i najbardziej pożądanych olejków aromaterapeutycznych. Róża jako lekarstwo była stosowana od bardzo, bardzo dawna, jednak jej użycie rozsławili Arabowie, zwłaszcza Awicenna, który polecał wodę różaną na wiele dolegliwości (było to swoiste panaceum).
+>Róża ma mnóstwo zastosowań leczniczych – naturalny olejek różany to jeden z najcenniejszych, najdroższych i najbardziej pożądanych olejków aromaterapeutycznych. Róża jako lekarstwo była stosowana od bardzo, bardzo dawna, jednak jej użycie rozsławili Arabowie, zwłaszcza Awicenna, który polecał wodę różaną na wiele dolegliwości (było to swoiste panaceum).
 
-Obecnie wiemy, że olejek różany (oraz oczywiście nasze pięknie pachnące różane płatki!) szczególnie dobrze sprawdzają się w przypadku problemów z sercem, nastrojem, melancholią. Róży używa się w przypadku przygnębienia, lekkiej depresji, nerwicy, permanentnego stresu, żałoby, złamanego serca i bólu emocjonalnego.
+>Obecnie wiemy, że olejek różany (oraz oczywiście nasze pięknie pachnące różane płatki!) szczególnie dobrze sprawdzają się w przypadku problemów z sercem, nastrojem, melancholią. Róży używa się w przypadku przygnębienia, lekkiej depresji, nerwicy, permanentnego stresu, żałoby, złamanego serca i bólu emocjonalnego.
 
-Każdy z nas ma takie chwile w życiu, kiedy wszystko wokół wydaje się szare i pozbawione większego znaczenia. Wtedy, jak balsam na zbolałe serce, można sięgnąć po różę.
+>Każdy z nas ma takie chwile w życiu, kiedy wszystko wokół wydaje się szare i pozbawione większego znaczenia. Wtedy, jak balsam na zbolałe serce, można sięgnąć po różę.
 
-Właśnie dlatego nazwałam dzisiejszą preparację eliksirem szczęścia: wystarczy odkręcić wieczko, wchłonąć upajający zapach róż, wypić łyżkę i odczekać chwilkę.  Świat znów nabierze kolorów.
+>Właśnie dlatego nazwałam dzisiejszą preparację eliksirem szczęścia: wystarczy odkręcić wieczko, wchłonąć upajający zapach róż, wypić łyżkę i odczekać chwilkę.  Świat znów nabierze kolorów.
 
-Różany eliksir szczęścia krok po kroku. 
+## Różany eliksir szczęścia krok po kroku. 
 
-Przygotowanie różanego eliksiru jest bardzo proste. Będziemy potrzebować alkoholu, miodu (działanie wzmacniające) oraz płatków róży. Teoretycznie każda róża jest jadalna i każda ma jakieś właściwości lecznicze, ale najlepsze są róże mocno pachnące – zwłaszcza stulistna, galicyjska, damasceńska. Mają największe stężenie substancji czynnych (głównie jest to cytronellol i geraniol), najpiękniejszy zapach i najlepsze właściwości. Do eliksiru dodałam również pyłku pszczelego, który jest świetnym produktem wzmacniającym, zwłaszcza w sytuacjach stresogennych. Można pominąć jego dodatek.
+![obraz](eliksir1.jpg)
 
-Jeśli z jakiegokolwiek powodu nie chcecie lub nie możecie używać miodu, można zastąpić go gliceryną roślinną, tworząc prosty gliceryt.
+_Przygotowanie różanego eliksiru jest bardzo proste. Będziemy potrzebować alkoholu, miodu (działanie wzmacniające) oraz płatków róży. Teoretycznie każda róża jest jadalna i każda ma jakieś właściwości lecznicze, ale najlepsze są róże mocno pachnące – zwłaszcza stulistna, galicyjska, damasceńska. Mają największe stężenie substancji czynnych (głównie jest to cytronellol i geraniol), najpiękniejszy zapach i najlepsze właściwości. Do eliksiru dodałam również pyłku pszczelego, który jest świetnym produktem wzmacniającym, zwłaszcza w sytuacjach stresogennych. Można pominąć jego dodatek.
 
-Krok pierwszy
+_Jeśli z jakiegokolwiek powodu nie chcecie lub nie możecie używać miodu, można zastąpić go gliceryną roślinną, tworząc prosty gliceryt.
 
-roza-elisir-1213
+## Krok pierwszy
+
+
 
 Płatki róż płuczemy pod bieżącą wodą, wkładamy do wyparzonego słoiczka.
 
-Krok drugi
+## Krok drugi
 
 Dodajemy tyle miodu, aby mniej-więcej zakryć płatki, mieszamy całość łyżką.
 
-roza-elisir-1220
 
-Krok trzeci
 
-Dodajemy dwie łyżki pyłku pszczelego.
+## Krok trzeci
 
-roza-elisir-1227
+Dodajemy dwie łyżki pyłku pszczelego
 
-Krok czwarty
+## Krok czwarty
 
 Całość zalewamy alkoholem (użyłam żołądkowej gorzkiej – płatki są dość delikatne, nie polecałabym stężenia większego niż 60%). Upewniamy się, czy płatki są w całości przykryte. Jeśli się „skompresowały”, dodajemy jeszcze trochę świeżych. Dokładnie mieszamy.
 
-Krok piąty
+## Krok piąty
 
 Zakręcamy szczelnie słoik, przechowujemy go w ciemnym chłodnym miejscu przez 5-6 tygodni. Codziennie potrząsamy słoiczkiem, żeby składniki ładnie się wyekstrahowały. Podczas maceracji syropu zrobi się trochę mniej (wchłoną go płatki), moim zdaniem można dodać wtedy jeszcze trochę wódki, co tam. Po tym czasie przecedzamy eliksir: płatki można zjeść lub dodać np. do jogurtu, zaś sam płyn najlepiej przechowywać w ciemnej buteleczce, w chłodnym miejscu.
 
-W razie potrzeby, kiedy czujemy się dobici albo nieszczęśliwi, sięgamy po eliksir różany i spożywamy co najmniej 2-3 łyżki dziennie.
-
-roza-elisir-1246
+W razie potrzeby, kiedy czujemy się dobici albo nieszczęśliwi, sięgamy po eliksir różany i spożywamy co najmniej 2-3 łyżki dzienni
 
  
 
-To tyle!
+_To tyle!
 
-Pomysł piękny, prosty w wykonaniu i bardzo sympatyczny. Poza tym, czy róża nie jest piękna?
+_Pomysł piękny, prosty w wykonaniu i bardzo sympatyczny. Poza tym, czy róża nie jest piękna?
 
-Jeśli kochacie różę albo znacie kogoś, kto również ją kocha, podajcie d
+_Jeśli kochacie różę albo znacie kogoś, kto również ją kocha, podajcie d
 
 
 
