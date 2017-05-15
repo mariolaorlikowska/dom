@@ -1,4 +1,4 @@
-# z bloga Klaudyny Herdy
+# _ z bloga Klaudyny Herdy
 RÓŻANY ELIKSIR SZCZĘŚCIA.
 
 
@@ -20,47 +20,44 @@ RÓŻANY ELIKSIR SZCZĘŚCIA.
 
 ## Różany eliksir szczęścia krok po kroku. 
 
-![obraz](eliksir1.jpg)
+![obraz](elisir1.jpg)
 
-_Przygotowanie różanego eliksiru jest bardzo proste. Będziemy potrzebować alkoholu, miodu (działanie wzmacniające) oraz płatków róży. Teoretycznie każda róża jest jadalna i każda ma jakieś właściwości lecznicze, ale najlepsze są róże mocno pachnące – zwłaszcza stulistna, galicyjska, damasceńska. Mają największe stężenie substancji czynnych (głównie jest to cytronellol i geraniol), najpiękniejszy zapach i najlepsze właściwości. Do eliksiru dodałam również pyłku pszczelego, który jest świetnym produktem wzmacniającym, zwłaszcza w sytuacjach stresogennych. Można pominąć jego dodatek.
+* Przygotowanie różanego eliksiru jest bardzo proste. Będziemy potrzebować alkoholu, miodu (działanie wzmacniające) oraz płatków róży. Teoretycznie każda róża jest jadalna i każda ma jakieś właściwości lecznicze, ale najlepsze są róże mocno pachnące – zwłaszcza stulistna, galicyjska, damasceńska. Mają największe stężenie substancji czynnych (głównie jest to cytronellol i geraniol), najpiękniejszy zapach i najlepsze właściwości. Do eliksiru dodałam również pyłku pszczelego, który jest świetnym produktem wzmacniającym, zwłaszcza w sytuacjach stresogennych. Można pominąć jego dodatek.
 
-_Jeśli z jakiegokolwiek powodu nie chcecie lub nie możecie używać miodu, można zastąpić go gliceryną roślinną, tworząc prosty gliceryt.
+* Jeśli z jakiegokolwiek powodu nie chcecie lub nie możecie używać miodu, można zastąpić go gliceryną roślinną, tworząc prosty gliceryt.
 
-## Krok pierwszy
+### Krok pierwszy
 
 
 
 Płatki róż płuczemy pod bieżącą wodą, wkładamy do wyparzonego słoiczka.
 
-## Krok drugi
+### Krok drugi
 
 Dodajemy tyle miodu, aby mniej-więcej zakryć płatki, mieszamy całość łyżką.
 
 
 
-## Krok trzeci
+### Krok trzeci
 
 Dodajemy dwie łyżki pyłku pszczelego
 
-## Krok czwarty
+### Krok czwarty
 
 Całość zalewamy alkoholem (użyłam żołądkowej gorzkiej – płatki są dość delikatne, nie polecałabym stężenia większego niż 60%). Upewniamy się, czy płatki są w całości przykryte. Jeśli się „skompresowały”, dodajemy jeszcze trochę świeżych. Dokładnie mieszamy.
 
-## Krok piąty
+### Krok piąty
 
 Zakręcamy szczelnie słoik, przechowujemy go w ciemnym chłodnym miejscu przez 5-6 tygodni. Codziennie potrząsamy słoiczkiem, żeby składniki ładnie się wyekstrahowały. Podczas maceracji syropu zrobi się trochę mniej (wchłoną go płatki), moim zdaniem można dodać wtedy jeszcze trochę wódki, co tam. Po tym czasie przecedzamy eliksir: płatki można zjeść lub dodać np. do jogurtu, zaś sam płyn najlepiej przechowywać w ciemnej buteleczce, w chłodnym miejscu.
 
 W razie potrzeby, kiedy czujemy się dobici albo nieszczęśliwi, sięgamy po eliksir różany i spożywamy co najmniej 2-3 łyżki dzienni
 
  
+>To tyle!
 
-_To tyle!
+>Pomysł piękny, prosty w wykonaniu i bardzo sympatyczny. Poza tym, czy róża nie jest piękna?
 
-_Pomysł piękny, prosty w wykonaniu i bardzo sympatyczny. Poza tym, czy róża nie jest piękna?
-
-_Jeśli kochacie różę albo znacie kogoś, kto również ją kocha, podajcie d
-
-
+:link: Jeśli kochacie różę albo znacie kogoś, kto również ją kocha, podajcie dalej  http://klaudynahebda.pl/roza-jadalna-przepis/
 
 # This is an <h1> tag
 ## This is an <h2> tag
