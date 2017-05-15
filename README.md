@@ -26,27 +26,27 @@ RÓŻANY ELIKSIR SZCZĘŚCIA.
 
 *Jeśli z jakiegokolwiek powodu nie chcecie lub nie możecie używać miodu, można zastąpić go gliceryną roślinną, tworząc prosty gliceryt.*
 
-### Krok pierwszy
+#### Krok pierwszy
 
 
 
 Płatki róż płuczemy pod bieżącą wodą, wkładamy do wyparzonego słoiczka.
 
-### Krok drugi
+#### Krok drugi
 
 Dodajemy tyle miodu, aby mniej-więcej zakryć płatki, mieszamy całość łyżką.
 
 
 
-### Krok trzeci
+#### Krok trzeci
 
 Dodajemy dwie łyżki pyłku pszczelego
 
-### Krok czwarty
+#### Krok czwarty
 
 Całość zalewamy alkoholem (użyłam żołądkowej gorzkiej – płatki są dość delikatne, nie polecałabym stężenia większego niż 60%). Upewniamy się, czy płatki są w całości przykryte. Jeśli się „skompresowały”, dodajemy jeszcze trochę świeżych. Dokładnie mieszamy.
 
-### Krok piąty
+#### Krok piąty
 
 Zakręcamy szczelnie słoik, przechowujemy go w ciemnym chłodnym miejscu przez 5-6 tygodni. Codziennie potrząsamy słoiczkiem, żeby składniki ładnie się wyekstrahowały. Podczas maceracji syropu zrobi się trochę mniej (wchłoną go płatki), moim zdaniem można dodać wtedy jeszcze trochę wódki, co tam. Po tym czasie przecedzamy eliksir: płatki można zjeść lub dodać np. do jogurtu, zaś sam płyn najlepiej przechowywać w ciemnej buteleczce, w chłodnym miejscu.
 
