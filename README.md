@@ -59,6 +59,18 @@ W razie potrzeby, kiedy czujemy się dobici albo nieszczęśliwi, sięgamy po el
 
 :link: Jeśli kochacie różę albo znacie kogoś, kto również ją kocha, podajcie dalej  http://klaudynahebda.pl/roza-jadalna-przepis/
 
+### Sprawdzamy czy posiadamy wszystkie składniki
+
+
+- [x] alkohol
+- [x] miód
+- [x] płatki róży
+- [ ] pyłek pszczeli
+- [x] zakrecany szczelnie słoik
+
+
+
+
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
