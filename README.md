@@ -1,74 +1,3 @@
-# *z bloga Klaudyny Herdy*
-RÓŻANY ELIKSIR SZCZĘŚCIA.
-
-
->Tak jak obiecałam, będziemy mówić o przeróżnych pomysłach na płatki róży. Na pewno kojarzycie zastosowanie kosmetyczne (zapachy różane, różany olejek, wodę z kwiatów róży), na pewno znacie zastosowanie kulinarne (pyszne konfitury!), ale czy wiecie, że płatki róży mają właściwości lecznicze?
-
->Dziś zapraszam Was do przygotowania ze mną różanego eliksiru szczęścia. Nazwałam go tak nie tylko dlatego, że pięknie wygląda i od razu przywołuje na twarz uśmiech i wspomnienia z dzieciństwa: jest w tym coś więcej!
-
->Zapraszam!
-
->Zastosowania lecznicze płatków róży
-
->Róża ma mnóstwo zastosowań leczniczych – naturalny olejek różany to jeden z najcenniejszych, najdroższych i najbardziej pożądanych olejków aromaterapeutycznych. Róża jako lekarstwo była stosowana od bardzo, bardzo dawna, jednak jej użycie rozsławili Arabowie, zwłaszcza Awicenna, który polecał wodę różaną na wiele dolegliwości (było to swoiste panaceum).
-
->Obecnie wiemy, że olejek różany (oraz oczywiście nasze pięknie pachnące różane płatki!) szczególnie dobrze sprawdzają się w przypadku problemów z sercem, nastrojem, melancholią. Róży używa się w przypadku przygnębienia, lekkiej depresji, nerwicy, permanentnego stresu, żałoby, złamanego serca i bólu emocjonalnego.
-
->Każdy z nas ma takie chwile w życiu, kiedy wszystko wokół wydaje się szare i pozbawione większego znaczenia. Wtedy, jak balsam na zbolałe serce, można sięgnąć po różę.
-
->Właśnie dlatego nazwałam dzisiejszą preparację eliksirem szczęścia: wystarczy odkręcić wieczko, wchłonąć upajający zapach róż, wypić łyżkę i odczekać chwilkę.  Świat znów nabierze kolorów.
-
-## Różany eliksir szczęścia krok po kroku. 
-
-![obraz](elisir1.jpg)
-
-*Przygotowanie różanego eliksiru jest bardzo proste. Będziemy potrzebować alkoholu, miodu (działanie wzmacniające) oraz płatków róży. Teoretycznie każda róża jest jadalna i każda ma jakieś właściwości lecznicze, ale najlepsze są róże mocno pachnące – zwłaszcza stulistna, galicyjska, damasceńska. Mają największe stężenie substancji czynnych (głównie jest to cytronellol i geraniol), najpiękniejszy zapach i najlepsze właściwości. Do eliksiru dodałam również pyłku pszczelego, który jest świetnym produktem wzmacniającym, zwłaszcza w sytuacjach stresogennych. Można pominąć jego dodatek.*
-
-*Jeśli z jakiegokolwiek powodu nie chcecie lub nie możecie używać miodu, można zastąpić go gliceryną roślinną, tworząc prosty gliceryt.*
-
-#### Krok pierwszy
-
-
-
-Płatki róż płuczemy pod bieżącą wodą, wkładamy do wyparzonego słoiczka.
-
-#### Krok drugi
-
-Dodajemy tyle miodu, aby mniej-więcej zakryć płatki, mieszamy całość łyżką.
-
-
-
-#### Krok trzeci
-
-Dodajemy dwie łyżki pyłku pszczelego
-
-#### Krok czwarty
-
-Całość zalewamy alkoholem (użyłam żołądkowej gorzkiej – płatki są dość delikatne, nie polecałabym stężenia większego niż 60%). Upewniamy się, czy płatki są w całości przykryte. Jeśli się „skompresowały”, dodajemy jeszcze trochę świeżych. Dokładnie mieszamy.
-
-#### Krok piąty
-
-Zakręcamy szczelnie słoik, przechowujemy go w ciemnym chłodnym miejscu przez 5-6 tygodni. Codziennie potrząsamy słoiczkiem, żeby składniki ładnie się wyekstrahowały. Podczas maceracji syropu zrobi się trochę mniej (wchłoną go płatki), moim zdaniem można dodać wtedy jeszcze trochę wódki, co tam. Po tym czasie przecedzamy eliksir: płatki można zjeść lub dodać np. do jogurtu, zaś sam płyn najlepiej przechowywać w ciemnej buteleczce, w chłodnym miejscu.
-
-W razie potrzeby, kiedy czujemy się dobici albo nieszczęśliwi, sięgamy po eliksir różany i spożywamy co najmniej 2-3 łyżki dzienni
-
- 
->To tyle!
-
->Pomysł piękny, prosty w wykonaniu i bardzo sympatyczny. Poza tym, czy róża nie jest piękna?
-
-:link: Jeśli kochacie różę albo znacie kogoś, kto również ją kocha, podajcie dalej  http://klaudynahebda.pl/roza-jadalna-przepis/
-
-### Sprawdzamy czy posiadamy wszystkie składniki
-
-
-- [x] alkohol
-- [x] miód
-- [x] płatki róży
-- [ ] pyłek pszczeli
-- [x] zakrecany szczelnie słoik
-
-
 
 
 # This is an <h1> tag
@@ -271,6 +200,81 @@ int main() {
 }
 ```
 :rose: :rose:    :heart:  :rose: :rose:     :rose: :rose:     :rose: :rose:     
+
+# *z bloga Klaudyny Herdy*
+RÓŻANY ELIKSIR SZCZĘŚCIA.
+
+
+>Tak jak obiecałam, będziemy mówić o przeróżnych pomysłach na płatki róży. Na pewno kojarzycie zastosowanie kosmetyczne (zapachy różane, różany olejek, wodę z kwiatów róży), na pewno znacie zastosowanie kulinarne (pyszne konfitury!), ale czy wiecie, że płatki róży mają właściwości lecznicze?
+
+>Dziś zapraszam Was do przygotowania ze mną różanego eliksiru szczęścia. Nazwałam go tak nie tylko dlatego, że pięknie wygląda i od razu przywołuje na twarz uśmiech i wspomnienia z dzieciństwa: jest w tym coś więcej!
+
+>Zapraszam!
+
+>Zastosowania lecznicze płatków róży
+
+>Róża ma mnóstwo zastosowań leczniczych – naturalny olejek różany to jeden z najcenniejszych, najdroższych i najbardziej pożądanych olejków aromaterapeutycznych. Róża jako lekarstwo była stosowana od bardzo, bardzo dawna, jednak jej użycie rozsławili Arabowie, zwłaszcza Awicenna, który polecał wodę różaną na wiele dolegliwości (było to swoiste panaceum).
+
+>Obecnie wiemy, że olejek różany (oraz oczywiście nasze pięknie pachnące różane płatki!) szczególnie dobrze sprawdzają się w przypadku problemów z sercem, nastrojem, melancholią. Róży używa się w przypadku przygnębienia, lekkiej depresji, nerwicy, permanentnego stresu, żałoby, złamanego serca i bólu emocjonalnego.
+
+>Każdy z nas ma takie chwile w życiu, kiedy wszystko wokół wydaje się szare i pozbawione większego znaczenia. Wtedy, jak balsam na zbolałe serce, można sięgnąć po różę.
+
+>Właśnie dlatego nazwałam dzisiejszą preparację eliksirem szczęścia: wystarczy odkręcić wieczko, wchłonąć upajający zapach róż, wypić łyżkę i odczekać chwilkę.  Świat znów nabierze kolorów.
+
+## Różany eliksir szczęścia krok po kroku. 
+
+![obraz](elisir1.jpg)
+
+*Przygotowanie różanego eliksiru jest bardzo proste. Będziemy potrzebować alkoholu, miodu (działanie wzmacniające) oraz płatków róży. Teoretycznie każda róża jest jadalna i każda ma jakieś właściwości lecznicze, ale najlepsze są róże mocno pachnące – zwłaszcza stulistna, galicyjska, damasceńska. Mają największe stężenie substancji czynnych (głównie jest to cytronellol i geraniol), najpiękniejszy zapach i najlepsze właściwości. Do eliksiru dodałam również pyłku pszczelego, który jest świetnym produktem wzmacniającym, zwłaszcza w sytuacjach stresogennych. Można pominąć jego dodatek.*
+
+*Jeśli z jakiegokolwiek powodu nie chcecie lub nie możecie używać miodu, można zastąpić go gliceryną roślinną, tworząc prosty gliceryt.*
+
+#### Krok pierwszy
+
+
+
+Płatki róż płuczemy pod bieżącą wodą, wkładamy do wyparzonego słoiczka.
+
+#### Krok drugi
+
+Dodajemy tyle miodu, aby mniej-więcej zakryć płatki, mieszamy całość łyżką.
+
+
+
+#### Krok trzeci
+
+Dodajemy dwie łyżki pyłku pszczelego
+
+#### Krok czwarty
+
+Całość zalewamy alkoholem (użyłam żołądkowej gorzkiej – płatki są dość delikatne, nie polecałabym stężenia większego niż 60%). Upewniamy się, czy płatki są w całości przykryte. Jeśli się „skompresowały”, dodajemy jeszcze trochę świeżych. Dokładnie mieszamy.
+
+#### Krok piąty
+
+Zakręcamy szczelnie słoik, przechowujemy go w ciemnym chłodnym miejscu przez 5-6 tygodni. Codziennie potrząsamy słoiczkiem, żeby składniki ładnie się wyekstrahowały. Podczas maceracji syropu zrobi się trochę mniej (wchłoną go płatki), moim zdaniem można dodać wtedy jeszcze trochę wódki, co tam. Po tym czasie przecedzamy eliksir: płatki można zjeść lub dodać np. do jogurtu, zaś sam płyn najlepiej przechowywać w ciemnej buteleczce, w chłodnym miejscu.
+
+W razie potrzeby, kiedy czujemy się dobici albo nieszczęśliwi, sięgamy po eliksir różany i spożywamy co najmniej 2-3 łyżki dzienni
+
+ 
+>To tyle!
+
+>Pomysł piękny, prosty w wykonaniu i bardzo sympatyczny. Poza tym, czy róża nie jest piękna?
+
+:link: Jeśli kochacie różę albo znacie kogoś, kto również ją kocha, podajcie dalej  http://klaudynahebda.pl/roza-jadalna-przepis/
+
+### Sprawdzamy czy posiadamy wszystkie składniki
+
+
+- [x] alkohol
+- [x] miód
+- [x] płatki róży
+- [ ] pyłek pszczeli
+- [x] zakrecany szczelnie słoik
+
+
+
+
+
 
 # Rozarium
 Rozarium (łac. rosarium), różanka, ogród różany – ogród lub jego część, gdzie uprawiane i eksponowane są kolekcje róż. Rozaria cechują się zwykle bogactwem kultywarów tego rodzaju. W Europie rozaria istniały od średniowiecza, a rozpowszechniły się w XIX wieku. Za jeden z pierwszych wyspecjalizowanych ogrodów różanych uważany jest ten założony przez pierwszą żonę Napoleona Bonaparte Joséphine de Beauharnais w La Malmaison (Francja). W chwili jej śmierci, w 1814 roku, w ogrodzie, prezentowane zarówno w donicach jak i na rabatach, rosło około 400, czyli wszystkie dostępne wówczas odmiany róż[1]. Obecnie w dalszym ciągu istnieje tam rozarium, jednak ma ono niewiele wspólnego ze swoim słynnym pierwowzorem. O ile w ciągu XIX wieku róże uprawiano zwykle w rozariach, w ciągu XX wieku ich znaczenie zmalało, a róże znalazły zastosowanie w urządzaniu rozmaitych terenów zielonych.
