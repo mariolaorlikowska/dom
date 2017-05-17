@@ -38,7 +38,7 @@
 :link: Jesli chcesz dowiedzieć się więcej o różach, odwiedź strony:  http://poradnikogrodniczy.pl/roze.php , http://www.zielonyogrodek.pl/przycinanie-roz-po-co-kiedy-i-jak-przycinac-roze
 
 
-  ![obraz](roza8.jpg)             ![obraz](roza8.jpg) 
+        ![obraz](roza8.jpg) 
   
 :heart:  :heart: :heart:    :heart:  :heart: :heart:  :heart:  :heart: :heart:  :heart:  :heart: :heart:   
 
@@ -49,11 +49,8 @@ Ach ta róża! ach ta róża!<h3>
 Co się w twoje okno wdziera,<h3>
 Na pokusy mnie wystawia,<h3>
 Sen i spokój mi odbiera…<h3>
-<h6> Autor: Adam Asnyk, Róża   |   |
+<h6> Autor: Adam Asnyk, Róża   |    ![obraz](roza8.jpg)      |
 | ---------- |----------------| ---------|
-|![obraz](kob.jpg)| ![obraz](kob22.jpg) |![obraz](kob3.jpg) |
-|![obraz](kob4.jpg) |![obraz](kob6.jpg) |![obraz](kob7.jpg)|
-|![obraz](kob8.jpg) | ![obraz](kob9.jpg)|![obraz](kob10.jpg)|
 
 
 
