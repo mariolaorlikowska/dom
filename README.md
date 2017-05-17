@@ -221,6 +221,10 @@ RÓŻANY ELIKSIR SZCZĘŚCIA.
 
 >Właśnie dlatego nazwałam dzisiejszą preparację eliksirem szczęścia: wystarczy odkręcić wieczko, wchłonąć upajający zapach róż, wypić łyżkę i odczekać chwilkę.  Świat znów nabierze kolorów.
 
+
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+
 ## Różany eliksir szczęścia krok po kroku. 
 
 ![obraz](elisir1.jpg)
@@ -263,11 +267,6 @@ W razie potrzeby, kiedy czujemy się dobici albo nieszczęśliwi, sięgamy po el
 :link: Jeśli kochacie różę albo znacie kogoś, kto również ją kocha, podajcie dalej  http://klaudynahebda.pl/roza-jadalna-przepis/
 
 
-:smile:
-:star:
-:sunny:
-:kiss:
-:boom:
 
 :smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile:
 ### Sprawdzamy czy posiadamy wszystkie składniki
