@@ -233,3 +233,8 @@ Parkowe Rosarium to układ zamknięty w tzw. plastrze miodu. Składają się na 
 ![obraz](chorzow2.jpg)
 ![obraz](chorzow3.jpg)
 ![obraz](chorzow4.jpg)
+
+
+ :smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose: ## * Dziękuję za uwagę* :smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
