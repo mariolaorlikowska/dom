@@ -47,6 +47,11 @@ Sen i spokój mi odbiera…<h3>
 <h6> Autor: Adam Asnyk, Róża 
 
 
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+
 # Kobiety lubią róże
 
 
