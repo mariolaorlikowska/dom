@@ -41,14 +41,9 @@
 
 
 
-|![obraz](roza10.jpg)|Ach ta róża! ach ta róża!
-Co się w twoje okno wdziera,
-Na pokusy mnie wystawia,
-Sen i spokój mi odbiera…       |![obraz](roza8.jpg)|
-| ---------- |----------------| ---------|
 
-
-
+![obraz](roza8.jpg)
+|![obraz](roza10.jpg)
 <h3>
 Ach ta róża! ach ta róża!<h3>
 Co się w twoje okno wdziera,<h3>
