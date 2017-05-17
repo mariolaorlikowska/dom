@@ -44,17 +44,17 @@
 
 
 
-|![obraz](roza10.jpg)       <h3>
-Ach ta róża! ach ta róża!<h3>
-Co się w twoje okno wdziera,<h3>
-Na pokusy mnie wystawia,<h3>
-Sen i spokój mi odbiera…<h3>
-<h6> Autor: Adam Asnyk, Róża   |![obraz](roza8.jpg)|
+|![obraz](roza10.jpg)|hhhhhh         |![obraz](roza8.jpg)|
 | ---------- |----------------| ---------|
 
 
 
-
+<h3>
+Ach ta róża! ach ta róża!<h3>
+Co się w twoje okno wdziera,<h3>
+Na pokusy mnie wystawia,<h3>
+Sen i spokój mi odbiera…<h3>
+<h6> Autor: Adam Asnyk, Róża 
 
 ![obraz](roza10.jpg) 
 
