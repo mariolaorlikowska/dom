@@ -262,6 +262,14 @@ W razie potrzeby, kiedy czujemy się dobici albo nieszczęśliwi, sięgamy po el
 
 :link: Jeśli kochacie różę albo znacie kogoś, kto również ją kocha, podajcie dalej  http://klaudynahebda.pl/roza-jadalna-przepis/
 
+
+:smile:
+:star:
+:sunny:
+:kiss:
+:boom:
+
+
 ### Sprawdzamy czy posiadamy wszystkie składniki
 
 
