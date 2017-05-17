@@ -35,16 +35,16 @@
  - Pochodzą od róży chińskiej odmiany niskiej – Rosa chinensis minima. Delikatne, niskie krzewy o małych kwiatach i drobnych liściach. Wrażliwe na niskie temperatury. Wymagają kopczykowania. Często wykorzystywane do dekoracji wnętrz.:rose:
 
 
-:link: Jesli chcesz dowiedzieć się więcej o różach, odwiedź strony:  http://poradnikogrodniczy.pl/roze.php , http://www.zielonyogrodek.pl/przycinanie-roz-po-co-kiedy-i-jak-przycinac-roze
-
-
-        ![obraz](roza8.jpg) 
+:link: Jesli chcesz dowiedzieć się więcej o różach, odwiedź strony:  http://poradnikogrodniczy.pl/roze.php , http://www.zielonyogrodek.pl/przycinanie-roz-po-co-kiedy-i-jak-przycinac-roz
   
 :heart:  :heart: :heart:    :heart:  :heart: :heart:  :heart:  :heart: :heart:  :heart:  :heart: :heart:   
 
 
 
-|![obraz](roza10.jpg)|hhhhhh         |![obraz](roza8.jpg)|
+|![obraz](roza10.jpg)|Ach ta róża! ach ta róża!<h3>
+Co się w twoje okno wdziera,<h3>
+Na pokusy mnie wystawia,<h3>
+Sen i spokój mi odbiera…<h3>       |![obraz](roza8.jpg)|
 | ---------- |----------------| ---------|
 
 
