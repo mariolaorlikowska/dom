@@ -3,11 +3,7 @@
 
  ![obraz](roza17.jpg)
 
-:bangbang: **Róża, to jeden z najpiękniejszych rodzajów wśród krzewów, którego zalety doceniono już w starożytności i od tamtego czasu, róża zajmuje czołowe miejsce wśród roślin ozdobnych, nazywana często „królową kwiatów”. Róże występują w całej strefie umiarkowanej półkuli północnej i mają postać krzewów, bardzo zróżnicowanych, zależnie od gatunku. Ich wysokość waha się od piętnastu centymetrów, do nawet dziesięciu metrów u form pnących. Pędy wzniesione, czepne lub płożące się, uzbrojone mniej lub licznej w kolce. Kwiaty promieniste, podwójne, półpełne lub pełne w wszystkich barwach, za wyjątkiem czysto niebieskiej. Tysiące odmian róż, jakie są obecnie dostępne, możemy pogrupować na kilka grup.**
-
-
-
-![obraz](roza12.jpg)       
+:bangbang: **Róża, to jeden z najpiękniejszych rodzajów wśród krzewów, którego zalety doceniono już w starożytności i od tamtego czasu, róża zajmuje czołowe miejsce wśród roślin ozdobnych, nazywana często „królową kwiatów”. Róże występują w całej strefie umiarkowanej półkuli północnej i mają postać krzewów, bardzo zróżnicowanych, zależnie od gatunku. Ich wysokość waha się od piętnastu centymetrów, do nawet dziesięciu metrów u form pnących. Pędy wzniesione, czepne lub płożące się, uzbrojone mniej lub licznej w kolce. Kwiaty promieniste, podwójne, półpełne lub pełne w wszystkich barwach, za wyjątkiem czysto niebieskiej. Tysiące odmian róż, jakie są obecnie dostępne, możemy pogrupować na kilka grup.    
 
 ## Grupy róż
 
@@ -40,10 +36,9 @@
 :heart:  :heart: :heart:    :heart:  :heart: :heart:  :heart:  :heart: :heart:  :heart:  :heart: :heart:   
 
 
+# Róża w literaturze
 
 
-![obraz](roza8.jpg)
-|![obraz](roza10.jpg)
 <h3>
 Ach ta róża! ach ta róża!<h3>
 Co się w twoje okno wdziera,<h3>
@@ -51,7 +46,6 @@ Na pokusy mnie wystawia,<h3>
 Sen i spokój mi odbiera…<h3>
 <h6> Autor: Adam Asnyk, Róża 
 
-![obraz](roza10.jpg) 
 
 # Kobiety lubią róże
 
