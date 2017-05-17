@@ -1,87 +1,4 @@
 
-
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-
-*This text will be italic*
-_This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-
-http://github.com - automatic!
-[GitHub](http://github.com)
-
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
-I think you should use an
-`<addr>` element here instead.
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-   function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-    
-    
-def foo():
-    if not bar:
-        return True    
-
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-
-16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
-mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
-
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
-
-~~this~~
-
-
-
-
-
-
 #  *kilka słów o różach*                  
 
  ![obraz](roza17.jpg)
@@ -90,7 +7,7 @@ mojombo/github-flavored-markdown#1
 
 
 
-![obraz](roza12.jpg)        ![obraz](roza12.jpg)
+![obraz](roza12.jpg)       
 
 ## Grupy róż
 
@@ -224,6 +141,8 @@ RÓŻANY ELIKSIR SZCZĘŚCIA.
 
 :smile::rose::star::sunny::kiss::boom: :heart:  :rose:
 :smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
 
 ## Różany eliksir szczęścia krok po kroku. 
 
@@ -268,7 +187,12 @@ W razie potrzeby, kiedy czujemy się dobici albo nieszczęśliwi, sięgamy po el
 
 
 
-:smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile::smile:
+
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+
 ### Sprawdzamy czy posiadamy wszystkie składniki
 
 
@@ -290,6 +214,13 @@ Ogrody różane mają zazwyczaj geometryczną, prostolinijna architekturę. Skł
 
 Rosarium w Wojewódzkim Parku Kultury i Wypoczynku w Chorzowie (woj. ślaskie) jest największe w Polsce i jedno z większych w Europie. Posadzonych jest tam około 30 tysięcy róż. Ciekawą kolekcję róż posiada również Ogród Botaniczny w Łodzi, Ogród Botaniczny PAN w Powsinie, ogród różany w Szczecinie czy w Wilanowie.
 Inne warte polecenia rosaria na świecie: Europa-Rosarium w Sangerhausen (Niemcy), Roseraie du Val-de-Marne (Francja), ogród różany przed klasztorem misyjnym Santa Barbara( Kalifornia, USA), kolekcja róż w Hyde Hall (hrabstwo Essex na wschód od Londynu).
+
+
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+:smile::rose::star::sunny::kiss::boom: :heart:  :rose:
+
 
 ## Rozarium w Chorzowie
 Obszar o powierzchni ponad siedmiu hektarów, to jeden z największych symboli Parku Śląskiego. Rosarium najpiękniej kwitnielatem, gdy setki tysięcy krzewów mieni się przepięknymi kolorami, a niektóre, jak frezje, wydzielają charakterystyczny, kuszący wręcz zapach.
