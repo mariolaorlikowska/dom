@@ -45,7 +45,7 @@ Co się w twoje okno wdziera,<h3>
 Na pokusy mnie wystawia,<h3>
 Sen i spokój mi odbiera…<h3>
 <h6> Autor: Adam Asnyk, Róża 
-
+<h6>
 
 :smile::rose::star::sunny::kiss::boom: :heart:  :rose:
 :smile::rose::star::sunny::kiss::boom: :heart:  :rose:
