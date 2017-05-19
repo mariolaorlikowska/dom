@@ -68,7 +68,7 @@ Sen i spokój mi odbiera…<h3>
 
 > # Kobiety są jak róże: niby zupełnie do siebie podobne, a jednak zapach, forma i kolor każdej z nich jest trochę inny.
 
-## Autor: Alfred Aleksander Konar
+### Autor: Alfred Aleksander Konar
  
  :rose: :rose:    :heart:  :rose: :rose:     :rose: :rose:     :rose: :rose:     :rose: :rose:    :heart:  :rose: :rose:     :rose: 
  
